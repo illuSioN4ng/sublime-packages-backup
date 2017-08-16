@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"AutoFileName",
+		"Autoprefixer",
+		"BracketHighlighter",
+		"DocBlockr",
+		"Emmet",
+		"FileHeader",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"JsFormat",
+		"Material Theme",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeREPL",
+		"Terminal",
+		"Themr",
+		"TortoiseSVN",
+		"TrailingSpaces",
+		"Vue Syntax Highlight"
+	]
+}
