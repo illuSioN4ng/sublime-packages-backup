@@ -16,7 +16,7 @@
 		"/E/projects/flyjs-demo"
 	],
 	"last_version": 3126,
-	"last_window_id": 28,
+	"last_window_id": 32,
 	"log_indexing": false,
 	"settings":
 	{
@@ -27,6 +27,26 @@
 			{
 				"selected_items":
 				[
+					[
+						"table",
+						"tableHead"
+					],
+					[
+						"tableB",
+						"tableBodyTpl〔variable〕"
+					],
+					[
+						"pageS",
+						"pageSource〔variable〕"
+					],
+					[
+						"rank",
+						"rankNav"
+					],
+					[
+						"sh",
+						"showListDataSource"
+					],
 					[
 						"dat",
 						"dataInit"
@@ -93,14 +113,35 @@
 			},
 			"file_history":
 			[
-				"/E/projects/基础教育资源公共平台重构/flyjs使用问题记录.txt",
+				"/E/projects/基础教育资源公共平台重构/project/views/static/faculty/images/index_ic.png",
+				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/show-table.js",
+				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/show-table.html",
+				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-body.html",
+				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-head.html",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-list/show-list.js",
-				"/E/projects/基础教育资源公共平台重构/project/views/resource-rank.html",
+				"/E/projects/基础教育资源公共平台重构/project/views/app/resource-rank.js",
+				"/E/projects/基础教育资源公共平台重构/basic_edu_project_rank/basic_edu_project/resource_rank.html",
 				"/C/Users/Administrator/Desktop/首页接口文件",
+				"/E/projects/基础教育资源公共平台重构/project/views/resource-rank.html",
+				"/E/projects/基础教育资源公共平台重构/project/views/app/index.js",
+				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-trs.html",
+				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/show-table.css",
+				"/E/projects/基础教育资源公共平台重构/project/views/static/faculty/css/faculty.css",
+				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-box.html",
+				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-title.html",
+				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/pagination.html",
+				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-list/show-list.html",
+				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/rank-top/rank-top.html",
+				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/rankNav/rankNav.html",
+				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/rankNav/rankNav.js",
+				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/rank-top/rank-top.js",
+				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-list/show-list.css",
+				"/E/projects/基础教育资源公共平台重构/project/views/index.html",
+				"/E/projects/基础教育资源公共平台重构/project/components/announcementList/announcementList.js",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
+				"/E/projects/基础教育资源公共平台重构/flyjs使用问题记录.txt",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
-				"/E/projects/基础教育资源公共平台重构/project/views/index.html",
-				"/E/projects/基础教育资源公共平台重构/project/views/app/index.js",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Themr/ThemrFavorites.sublime-settings",
 				"/E/projects/basic_edu_project_index/static/index/js/jquery.index.js",
 				"/E/projects/basic_edu_project_index/index.html",
@@ -119,7 +160,7 @@
 			],
 			"find":
 			{
-				"height": 33.0
+				"height": 49.0
 			},
 			"find_in_files":
 			{
@@ -133,6 +174,12 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"table.dataTable",
+					"newsList",
+					".page a",
+					"page",
+					"show_table",
+					"=",
 					"                 \n",
 					"consult-edu-list",
 					"icon.gif",
@@ -148,6 +195,9 @@
 				"regex": false,
 				"replace_history":
 				[
+					"table.table_box",
+					": .page div.number span",
+					": "
 				],
 				"reverse": false,
 				"show_context": true,
@@ -171,7 +221,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 62.0
+				"height": 94.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -221,6 +271,30 @@
 				"selected_items":
 				[
 					[
+						"th",
+						"thSortBtns"
+					],
+					[
+						"table",
+						"tableHead"
+					],
+					[
+						"tableB",
+						"tableBodyTpl〔variable〕"
+					],
+					[
+						"pageS",
+						"pageSource〔variable〕"
+					],
+					[
+						"rank",
+						"rankNav"
+					],
+					[
+						"sh",
+						"showListDataSource"
+					],
+					[
 						"dat",
 						"dataInit"
 					],
@@ -233,72 +307,28 @@
 			"buffers":
 			[
 				{
-					"file": "/E/projects/基础教育资源公共平台重构/project/views/index.html",
-					"settings":
-					{
-						"buffer_size": 7534,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
 					"file": "/E/projects/基础教育资源公共平台重构/project/views/resource-rank.html",
 					"settings":
 					{
-						"buffer_size": 1066,
+						"buffer_size": 2896,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/E/projects/基础教育资源公共平台重构/project/views/app/resource-rank.js",
+					"file": "/E/projects/基础教育资源公共平台重构/project/views/static/faculty/css/faculty.css",
 					"settings":
 					{
-						"buffer_size": 509,
+						"buffer_size": 14235,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-list/show-list.js",
+					"file": "/C/Users/Administrator/Desktop/首页接口文件",
 					"settings":
 					{
-						"buffer_size": 1507,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/E/projects/基础教育资源公共平台重构/project/components/announcementList/announcementList.css",
-					"settings":
-					{
-						"buffer_size": 841,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/E/projects/基础教育资源公共平台重构/project/components/announcementList/announcementList.js",
-					"settings":
-					{
-						"buffer_size": 377,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/E/projects/基础教育资源公共平台重构/project/components/rankListPage/rank-top/rank-top.html",
-					"settings":
-					{
-						"buffer_size": 27,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/E/projects/基础教育资源公共平台重构/project/components/rankListPage/rank-top/rank-top.js",
-					"settings":
-					{
-						"buffer_size": 1601,
+						"buffer_size": 38579,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -313,53 +343,10 @@
 					}
 				},
 				{
-					"file": "/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-list/show-list.html",
+					"file": "/E/projects/基础教育资源公共平台重构/project/views/app/resource-rank.js",
 					"settings":
 					{
-						"buffer_size": 789,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-list/show-list.css",
-					"settings":
-					{
-						"buffer_size": 1154,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/E/projects/基础教育资源公共平台重构/project/components/rankListPage/rankNav/rankNav.html",
-					"settings":
-					{
-						"buffer_size": 150,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/E/projects/基础教育资源公共平台重构/project/components/rankListPage/rankNav/rankNav.js",
-					"settings":
-					{
-						"buffer_size": 367,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/E/projects/基础教育资源公共平台重构/basic_edu_project_rank/basic_edu_project/resource_rank.html",
-					"settings":
-					{
-						"buffer_size": 4254,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/Users/Administrator/Desktop/首页接口文件",
-					"settings":
-					{
-						"buffer_size": 38453,
+						"buffer_size": 11436,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -423,25 +410,58 @@
 			"expanded_folders":
 			[
 				"/E/projects/基础教育资源公共平台重构/project",
+				"/E/projects/基础教育资源公共平台重构/project/component_modules",
+				"/E/projects/基础教育资源公共平台重构/project/component_modules/flyui-pager",
+				"/E/projects/基础教育资源公共平台重构/project/component_modules/flyui-pager/0.1.3",
+				"/E/projects/基础教育资源公共平台重构/project/component_modules/lib-fly",
 				"/E/projects/基础教育资源公共平台重构/project/components",
-				"/E/projects/基础教育资源公共平台重构/project/components/announcementList",
+				"/E/projects/基础教育资源公共平台重构/project/components/newslist",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage",
+				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/rank-top",
+				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/rankNav",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-list",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table",
 				"/E/projects/基础教育资源公共平台重构/project/views",
-				"/E/projects/基础教育资源公共平台重构/project/views/app"
+				"/E/projects/基础教育资源公共平台重构/project/views/app",
+				"/E/projects/基础教育资源公共平台重构/project/views/static",
+				"/E/projects/基础教育资源公共平台重构/project/views/static/faculty",
+				"/E/projects/基础教育资源公共平台重构/project/views/static/faculty/css"
 			],
 			"file_history":
 			[
+				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-list/show-list.js",
+				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-list/show-list.html",
+				"/E/projects/基础教育资源公共平台重构/project/views/index.html",
+				"/D/pac.txt",
+				"/E/projects/基础教育资源公共平台重构/project/views/static/faculty/pagination.js",
+				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/pagination/pagination.js",
+				"/E/projects/基础教育资源公共平台重构/project/component_modules/flyui-pager/0.1.3/pager.js",
+				"/E/projects/基础教育资源公共平台重构/project/views/app/index.js",
+				"/E/projects/基础教育资源公共平台重构/project/views/static/faculty/css/table.css",
+				"/E/projects/基础教育资源公共平台重构/project/views/static/faculty/images/index_ic.png",
+				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/show-table.js",
+				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/show-table.html",
+				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-body.html",
+				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-head.html",
+				"/E/projects/基础教育资源公共平台重构/project/views/app/resource-rank.js",
+				"/E/projects/基础教育资源公共平台重构/basic_edu_project_rank/basic_edu_project/resource_rank.html",
+				"/C/Users/Administrator/Desktop/首页接口文件",
+				"/E/projects/基础教育资源公共平台重构/project/views/resource-rank.html",
+				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-trs.html",
+				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/show-table.css",
+				"/E/projects/基础教育资源公共平台重构/project/views/static/faculty/css/faculty.css",
+				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-box.html",
+				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-title.html",
+				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/pagination.html",
+				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/rank-top/rank-top.html",
+				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/rankNav/rankNav.html",
+				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/rankNav/rankNav.js",
+				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/rank-top/rank-top.js",
+				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-list/show-list.css",
+				"/E/projects/基础教育资源公共平台重构/project/components/announcementList/announcementList.js",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
 				"/E/projects/基础教育资源公共平台重构/flyjs使用问题记录.txt",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-list/show-list.js",
-				"/E/projects/基础教育资源公共平台重构/project/views/resource-rank.html",
-				"/C/Users/Administrator/Desktop/首页接口文件",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
-				"/E/projects/基础教育资源公共平台重构/project/views/index.html",
-				"/E/projects/基础教育资源公共平台重构/project/views/app/index.js",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Themr/ThemrFavorites.sublime-settings",
 				"/E/projects/basic_edu_project_index/static/index/js/jquery.index.js",
 				"/E/projects/basic_edu_project_index/index.html",
@@ -460,7 +480,7 @@
 			],
 			"find":
 			{
-				"height": 33.0
+				"height": 49.0
 			},
 			"find_in_files":
 			{
@@ -474,6 +494,41 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"console",
+					"conso",
+					"showListSource",
+					"sortMythod",
+					"$thSortBtns",
+					"sortInfo",
+					"_clickHandler",
+					"pager",
+					"dataSource",
+					"Source",
+					"_click",
+					"dataSource",
+					"_clickHandler",
+					"pager",
+					"current",
+					"_clickHandler",
+					"pageNumberView",
+					"class",
+					"current",
+					"_appendRange",
+					"_createLink",
+					"class",
+					"current",
+					"number",
+					".number",
+					"_clickHandler",
+					"number",
+					"data-sorting-mythod",
+					"sorting-method",
+					"table.dataTable",
+					"newsList",
+					".page a",
+					"page",
+					"show_table",
+					"=",
 					"                 \n",
 					"consult-edu-list",
 					"icon.gif",
@@ -489,6 +544,10 @@
 				"regex": false,
 				"replace_history":
 				[
+					"pagination",
+					"table.table_box",
+					": .page div.number span",
+					": "
 				],
 				"reverse": false,
 				"show_context": true,
@@ -505,181 +564,24 @@
 			"groups":
 			[
 				{
-					"selected": 4,
+					"selected": 2,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/E/projects/基础教育资源公共平台重构/project/views/index.html",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 7534,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										598,
-										598
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-											"1":
-											[
-												593,
-												597
-											]
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										225,
-										8,
-										10,
-										10,
-										9,
-										27,
-										11,
-										59,
-										0,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"git_gutter_is_enabled": true,
-									"syntax": "Packages/HTML/HTML.sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 23.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 12,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
 							"file": "/E/projects/基础教育资源公共平台重构/project/views/resource-rank.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1066,
+								"buffer_size": 2896,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										749,
-										686
+										2075,
+										2075
 									]
 								],
 								"settings":
@@ -690,12 +592,27 @@
 									{
 										"close":
 										{
+											"1":
+											[
+												2549,
+												2554
+											]
 										},
 										"icon":
 										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/tag.png",
+												"brackethighlighter.default"
+											]
 										},
 										"open":
 										{
+											"1":
+											[
+												2017,
+												2022
+											]
 										},
 										"unmatched":
 										{
@@ -708,56 +625,56 @@
 										"bh_double_quote_open",
 										"bh_double_quote_close",
 										"bh_double_quote_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
 										"bh_tag_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
-										"bh_single_quote_content"
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
 									],
 									"c_time":
 									[
@@ -812,1355 +729,27 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 69.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/E/projects/基础教育资源公共平台重构/project/views/app/resource-rank.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 509,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										506,
-										506
-									]
-								],
-								"settings":
-								{
-									"auto_complete": false,
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												505,
-												506
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/round_bracket.png",
-												"brackethighlighter.default"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												487,
-												488
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										225,
-										8,
-										11,
-										9,
-										37,
-										4,
-										3,
-										116,
-										96,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"git_gutter_is_enabled": true,
-									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-list/show-list.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1507,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										441,
-										441
-									]
-								],
-								"settings":
-								{
-									"auto_complete": false,
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												440,
-												441
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/round_bracket.png",
-												"brackethighlighter.default"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												439,
-												440
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										225,
-										8,
-										11,
-										10,
-										30,
-										32,
-										3,
-										116,
-										96,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"git_gutter_is_enabled": true,
-									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true,
-									"word_wrap": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 36.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/E/projects/基础教育资源公共平台重构/project/components/announcementList/announcementList.css",
-							"semi_transient": true,
-							"settings":
-							{
-								"buffer_size": 841,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										228,
-										228
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												227,
-												228
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/curly_bracket.png",
-												"brackethighlighter.default"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												53,
-												54
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										225,
-										8,
-										10,
-										10,
-										9,
-										27,
-										3,
-										239,
-										208,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"git_gutter_is_enabled": true,
-									"syntax": "Packages/CSS/CSS.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/E/projects/基础教育资源公共平台重构/project/components/announcementList/announcementList.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 377,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										225,
-										8,
-										10,
-										10,
-										9,
-										27,
-										4,
-										3,
-										88,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"git_gutter_is_enabled": true,
-									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 10,
-							"type": "text"
-						},
-						{
-							"buffer": 6,
-							"file": "/E/projects/基础教育资源公共平台重构/project/components/rankListPage/rank-top/rank-top.html",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 27,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										27,
-										27
-									]
-								],
-								"settings":
-								{
-									"auto_complete": false,
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												15,
-												26
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/tag.png",
-												"brackethighlighter.default"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												1,
-												12
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										225,
-										8,
-										14,
-										9,
-										10,
-										15,
-										1,
-										95,
-										144,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"git_gutter_is_enabled": true,
-									"open_with_edit": true,
-									"syntax": "Packages/HTML/HTML.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 5,
-							"type": "text"
-						},
-						{
-							"buffer": 7,
-							"file": "/E/projects/基础教育资源公共平台重构/project/components/rankListPage/rank-top/rank-top.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1601,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										989,
-										989
-									]
-								],
-								"settings":
-								{
-									"auto_complete": false,
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												988,
-												989
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/round_bracket.png",
-												"brackethighlighter.default"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												918,
-												919
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										225,
-										8,
-										14,
-										9,
-										10,
-										45,
-										14,
-										60,
-										136,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"git_gutter_is_enabled": true,
-									"open_with_edit": true,
-									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-									"translate_tabs_to_spaces": false,
-									"word_wrap": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 207.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 6,
-							"type": "text"
-						}
-					]
-				},
-				{
-					"selected": 1,
-					"sheets":
-					[
-						{
-							"buffer": 8,
-							"file": "/E/projects/基础教育资源公共平台重构/project/views/app/index.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 17195,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										2576,
-										2576
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												2591,
-												2592
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/round_bracket.png",
-												"brackethighlighter.default"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												2566,
-												2567
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										225,
-										8,
-										10,
-										10,
-										9,
-										27,
-										11,
-										74,
-										160,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"git_gutter_is_enabled": true,
-									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true,
-									"word_wrap": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 11,
-							"type": "text"
-						},
-						{
-							"buffer": 9,
-							"file": "/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-list/show-list.html",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 789,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										655,
-										655
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												652,
-												654
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/tag.png",
-												"brackethighlighter.default"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												548,
-												550
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										225,
-										8,
-										11,
-										10,
-										30,
-										11,
-										4,
-										235,
-										96,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"git_gutter_is_enabled": true,
-									"syntax": "Packages/HTML/HTML.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 801.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 2,
 							"type": "text"
 						},
 						{
-							"buffer": 10,
-							"file": "/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-list/show-list.css",
+							"buffer": 1,
+							"file": "/E/projects/基础教育资源公共平台重构/project/views/static/faculty/css/faculty.css",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1154,
+								"buffer_size": 14235,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										13866,
+										13866
 									]
 								],
 								"settings":
@@ -2188,56 +777,56 @@
 										"bh_double_quote_open",
 										"bh_double_quote_close",
 										"bh_double_quote_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
 										"bh_tag_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
-										"bh_single_quote_content"
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
 									],
 									"c_time":
 									[
@@ -2270,12 +859,12 @@
 										225,
 										8,
 										11,
-										10,
-										30,
-										24,
-										8,
-										211,
-										96,
+										9,
+										42,
+										0,
+										13,
+										220,
+										112,
 										113,
 										1,
 										133,
@@ -2288,512 +877,30 @@
 									],
 									"git_gutter_is_enabled": true,
 									"syntax": "Packages/CSS/CSS.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 7,
-							"type": "text"
-						},
-						{
-							"buffer": 11,
-							"file": "/E/projects/基础教育资源公共平台重构/project/components/rankListPage/rankNav/rankNav.html",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 150,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										129,
-										129
-									]
-								],
-								"settings":
-								{
-									"auto_complete": false,
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												136,
-												137
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/single_quote.png",
-												"brackethighlighter.default"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												128,
-												129
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										225,
-										8,
-										11,
-										9,
-										49,
-										39,
-										5,
-										73,
-										32,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"git_gutter_is_enabled": true,
-									"syntax": "Packages/HTML/HTML.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 9,
-							"type": "text"
-						},
-						{
-							"buffer": 12,
-							"file": "/E/projects/基础教育资源公共平台重构/project/components/rankListPage/rankNav/rankNav.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 367,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										225,
-										8,
-										11,
-										9,
-										51,
-										0,
-										1,
-										183,
-										16,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"git_gutter_is_enabled": true,
-									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 8,
-							"type": "text"
-						},
-						{
-							"buffer": 13,
-							"file": "/E/projects/基础教育资源公共平台重构/basic_edu_project_rank/basic_edu_project/resource_rank.html",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 4254,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1470,
-										1470
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												1476,
-												1477
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/double_quote.png",
-												"brackethighlighter.default"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												1466,
-												1467
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										224,
-										9,
-										23,
-										14,
-										7,
-										47,
-										14,
-										133,
-										147,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"syntax": "Packages/HTML/HTML.sublime-syntax",
 									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 483.0,
+								"translation.y": 19385.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 14,
+							"stack_index": 3,
 							"type": "text"
 						},
 						{
-							"buffer": 14,
+							"buffer": 2,
 							"file": "/C/Users/Administrator/Desktop/首页接口文件",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 38453,
+								"buffer_size": 38579,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										31372,
-										31364
+										31909,
+										34878
 									]
 								],
 								"settings":
@@ -2821,56 +928,56 @@
 										"bh_double_quote_open",
 										"bh_double_quote_close",
 										"bh_double_quote_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
 										"bh_tag_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
-										"bh_single_quote_content"
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
 									],
 									"c_time":
 									[
@@ -2924,10 +1031,336 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 2139.0,
+								"translation.y": 22908.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 13,
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/E/projects/基础教育资源公共平台重构/project/views/app/index.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 17195,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										225,
+										8,
+										10,
+										10,
+										9,
+										27,
+										11,
+										74,
+										160,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 69.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 4,
+							"file": "/E/projects/基础教育资源公共平台重构/project/views/app/resource-rank.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 11436,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										500,
+										541
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												541,
+												542
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/single_quote.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												499,
+												500
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										225,
+										8,
+										11,
+										9,
+										37,
+										4,
+										3,
+										116,
+										96,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 69.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
 							"type": "text"
 						}
 					]
@@ -2976,11 +1409,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,871,175,175,1370",
+			"position": "0,2,3,-32000,-32000,-1,-1,892,583,196,1778",
 			"project": "",
 			"replace":
 			{
-				"height": 62.0
+				"height": 94.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -3010,7 +1443,7 @@
 				],
 				"width": 0.0
 			},
-			"selected_group": 0,
+			"selected_group": 1,
 			"settings":
 			{
 			},
@@ -3018,7 +1451,7 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 426.0,
+			"side_bar_width": 235.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{

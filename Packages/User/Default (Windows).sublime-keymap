@@ -1,1 +1,4 @@
-[{ "keys": ["ctrl+s"], "command": "save_all" },]
+[
+	{ "keys": ["ctrl+s"], "command": "save_all" },
+	{ "keys": ["alt+o"],    "command": "side_bar_reveal"},
+]
