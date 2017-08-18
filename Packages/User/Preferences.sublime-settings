@@ -1,6 +1,7 @@
 {
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
 	"font_size": 15,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -11,6 +12,14 @@
 	"material_theme_compact_panel": true,
 	"material_theme_compact_sidebar": true,
 	"material_theme_contrast_mode": true,
-	"theme": "Material-Theme-Darker.sublime-theme",
+	"theme": "Boxy Tomorrow.sublime-theme",
+	"theme_scrollbar_rounded": true,
+	"theme_sidebar_folder_materialized": true,
+	"theme_sidebar_font_xl": true,
+	"theme_tab_font_lg": true,
+	"theme_tab_label_bold": true,
+	"theme_tab_line_size_lg": true,
+	"theme_tab_rounded": true,
+	"theme_tab_selected_underlined": true,
 	"word_wrap": "true"
 }

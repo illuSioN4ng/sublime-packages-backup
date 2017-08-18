@@ -16,7 +16,7 @@
 		"/E/projects/flyjs-demo"
 	],
 	"last_version": 3126,
-	"last_window_id": 32,
+	"last_window_id": 34,
 	"log_indexing": false,
 	"settings":
 	{
@@ -27,6 +27,10 @@
 			{
 				"selected_items":
 				[
+					[
+						"th",
+						"thSortBtns"
+					],
 					[
 						"table",
 						"tableHead"
@@ -63,13 +67,33 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 354.0,
-				"last_filter": "ip",
+				"height": 357.0,
+				"last_filter": "",
 				"selected_items":
 				[
 					[
 						"ip",
 						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"boxy",
+						"Boxy Theme: Activation"
+					],
+					[
+						"th",
+						"Themr: List themes"
+					],
+					[
+						"box",
+						"Boxy Theme: Activation"
+					],
+					[
+						"mater",
+						"Material Theme: Activate theme"
 					],
 					[
 						"me",
@@ -82,10 +106,6 @@
 					[
 						"shell",
 						"Set Syntax: Shell Script (Bash)"
-					],
-					[
-						"mater",
-						"Material Theme: Activate theme"
 					]
 				],
 				"width": 510.0
@@ -113,36 +133,45 @@
 			},
 			"file_history":
 			[
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Themr/Default (Windows).sublime-keymap",
+				"/E/projects/基础教育资源公共平台重构/project/views/static/faculty/css/faculty.css",
+				"/E/projects/基础教育资源公共平台重构/project/views/app/index.js",
+				"/C/Users/Administrator/Desktop/首页接口文件",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Themr/ThemrFavorites.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-list/show-list.js",
+				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-list/show-list.html",
+				"/E/projects/基础教育资源公共平台重构/project/views/index.html",
+				"/D/pac.txt",
+				"/E/projects/基础教育资源公共平台重构/project/views/static/faculty/pagination.js",
+				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/pagination/pagination.js",
+				"/E/projects/基础教育资源公共平台重构/project/component_modules/flyui-pager/0.1.3/pager.js",
+				"/E/projects/基础教育资源公共平台重构/project/views/static/faculty/css/table.css",
 				"/E/projects/基础教育资源公共平台重构/project/views/static/faculty/images/index_ic.png",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/show-table.js",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/show-table.html",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-body.html",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-head.html",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-list/show-list.js",
 				"/E/projects/基础教育资源公共平台重构/project/views/app/resource-rank.js",
 				"/E/projects/基础教育资源公共平台重构/basic_edu_project_rank/basic_edu_project/resource_rank.html",
-				"/C/Users/Administrator/Desktop/首页接口文件",
 				"/E/projects/基础教育资源公共平台重构/project/views/resource-rank.html",
-				"/E/projects/基础教育资源公共平台重构/project/views/app/index.js",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-trs.html",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/show-table.css",
-				"/E/projects/基础教育资源公共平台重构/project/views/static/faculty/css/faculty.css",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-box.html",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-title.html",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/pagination.html",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-list/show-list.html",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/rank-top/rank-top.html",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/rankNav/rankNav.html",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/rankNav/rankNav.js",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/rank-top/rank-top.js",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-list/show-list.css",
-				"/E/projects/基础教育资源公共平台重构/project/views/index.html",
 				"/E/projects/基础教育资源公共平台重构/project/components/announcementList/announcementList.js",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
 				"/E/projects/基础教育资源公共平台重构/flyjs使用问题记录.txt",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Themr/ThemrFavorites.sublime-settings",
 				"/E/projects/basic_edu_project_index/static/index/js/jquery.index.js",
 				"/E/projects/basic_edu_project_index/index.html",
 				"/E/projects/basic_edu_project_index/static/index/css/index.css",
@@ -174,6 +203,35 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"console",
+					"conso",
+					"showListSource",
+					"sortMythod",
+					"$thSortBtns",
+					"sortInfo",
+					"_clickHandler",
+					"pager",
+					"dataSource",
+					"Source",
+					"_click",
+					"dataSource",
+					"_clickHandler",
+					"pager",
+					"current",
+					"_clickHandler",
+					"pageNumberView",
+					"class",
+					"current",
+					"_appendRange",
+					"_createLink",
+					"class",
+					"current",
+					"number",
+					".number",
+					"_clickHandler",
+					"number",
+					"data-sorting-mythod",
+					"sorting-method",
 					"table.dataTable",
 					"newsList",
 					".page a",
@@ -195,6 +253,7 @@
 				"regex": false,
 				"replace_history":
 				[
+					"pagination",
 					"table.table_box",
 					": .page div.number span",
 					": "
@@ -255,7 +314,7 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 426.0,
+			"side_bar_width": 235.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -310,45 +369,38 @@
 					"file": "/E/projects/基础教育资源公共平台重构/project/views/resource-rank.html",
 					"settings":
 					{
-						"buffer_size": 2896,
+						"buffer_size": 3005,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/E/projects/基础教育资源公共平台重构/project/views/static/faculty/css/faculty.css",
+					"file": "/E/projects/基础教育资源公共平台重构/project/components/activity/activity.css",
 					"settings":
 					{
-						"buffer_size": 14235,
+						"buffer_size": 167,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/Users/Administrator/Desktop/首页接口文件",
-					"settings":
-					{
-						"buffer_size": 38579,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/E/projects/基础教育资源公共平台重构/project/views/app/index.js",
-					"settings":
-					{
-						"buffer_size": 17195,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
 					}
 				},
 				{
 					"file": "/E/projects/基础教育资源公共平台重构/project/views/app/resource-rank.js",
 					"settings":
 					{
-						"buffer_size": 11436,
+						"buffer_size": 6475,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "Package Control Messages\n========================\n\nAgila Theme\n-----------\n\n  # Agila Theme\n  ##### A Sublime Text 3 UI Theme\n  Couldn't find a theme I really dig, so I tried to make my own theme based on all the things/elements I like from wonderful themes I've used before. :)\n  \n  ***\n  \n  ## Screenshots\n  *Current font settings in screenshots:\n  Font face: [__Inconsolata__](https://www.google.com/fonts/specimen/Inconsolata) | Font size: 22*\n  \n  #### Agila Theme\n  ![Screenshot](https://www.dropbox.com/s/jt3choxq6b583t7/Agila%20Theme.png?raw=1)\n  \n  #### Agila Classic Theme\n  ![Screenshot](https://www.dropbox.com/s/xlg43vr2ikxogch/Agila%20Classic%20Theme.png?raw=1)\n  \n  #### Agila Light Theme\n  ![Screenshot](https://www.dropbox.com/s/tmjpeas5iuvotbd/Agila%20Light%20Theme.png?raw=1)\n  \n  ---\n  \n  ### How to Install\n  \n  ##### *Chill* way\n  via [Package Control](https://packagecontrol.io/), where Agila is listed as *`Agila Theme`*.\n  \n  1. Open Command Palette using menu item *`Tools -> Command Palette...`*\n  2. Choose `Package Control: Install Package`\n  3. Find *`Agila Theme`* and hit *`Enter`*\n  \n  ##### *Woooo* way\n  via installing the theme manually.\n  \n  1. [Download the latest release .zip](https://github.com/arvi/Agila-Theme/releases)\n  2. Unzip and rename folder to *`Agila Theme`*.\n  3. Move *`Agila Theme`* folder inside the Packages directory (*`Preferences > Browse packages...`*)\n  \n  ---\n  \n  ### How to Activate Theme\n  via User Preferences file (*`Sublime Text -> Preferences -> Settings - User`*). After setting up,\n  don't forget to **restart Sublime Text Editor** for changes to take effect.\n  \n  ##### Default theme\n  #\n  ```json\n  \"theme\": \"Agila.sublime-theme\",\n  \"color_scheme\": \"Packages/Agila Theme/Agila Oceanic Next.tmTheme\",\n  ```\n  \n  ##### Classic theme\n  #\n  ```json\n  \"theme\": \"Agila Classic.sublime-theme\",\n  \"color_scheme\": \"Packages/Agila Theme/Agila Classic Oceanic Next.tmTheme\",\n  ```\n  \n  ##### Light theme\n  #\n  ```json\n  \"theme\": \"Agila Light.sublime-theme\",\n  \"color_scheme\": \"Packages/Agila Theme/Agila Light Solarized.tmTheme\",\n  ```\n  #\n  \n  ---\n  \n  ### Settings\n  I've made some UI parts customizable e.g icon colors, sidebar items, etc.. :)\n  ###### SIDEBAR SIZE (default: medium)\n  #\n  ```json\n  \"theme_agila_sidebar_small\": true,\n  \"theme_agila_sidebar_medium\": true,\n  \"theme_agila_sidebar_large\": true,\n  ```\n  \n  ###### SIDEBAR ENTRY/ITEM FONT SIZE (if not set, will default to font size: 13)\n  #\n  ```json\n  \"theme_agila_sidebar_font_xsmall\": true, //font-size: 11\n  \"theme_agila_sidebar_font_small\": true, //font-size: 12\n  \"theme_agila_sidebar_font_big\": true, //font-size: 14\n  ```\n  \n  ###### SIDEBAR SELECTED ENTRY/ITEM (default: pink)\n  #\n  ```json\n  \"theme_agila_sidebar_selected_entry_white\": true,\n  \"theme_agila_sidebar_selected_entry_gray\": true,\n  \"theme_agila_sidebar_selected_entry_lightblue\": true,\n  \"theme_agila_sidebar_selected_entry_yellow\": true,\n  \"theme_agila_sidebar_selected_entry_pink\": true,\n  ```\n  \n  ###### MODIFIED TAB - ICON MARKER COLOR (default: light blue)\n  #\n  ```json\n  \"theme_agila_modified_tab_marker_white\": true,\n  \"theme_agila_modified_tab_marker_gray\": true,\n  \"theme_agila_modified_tab_marker_lightblue\": true,\n  \"theme_agila_modified_tab_marker_yellow\": true,\n  \"theme_agila_modified_tab_marker_pink\": true,\n  ```\n  \n  ###### SCROLLBAR COLORS\n  #\n  ```json\n  \"theme_agila_vertical_scrollbar_white\": true,\n  \"theme_agila_horizontal_scrollbar_white\": true,\n  \n  \"theme_agila_vertical_scrollbar_gray\": true,\n  \"theme_agila_horizontal_scrollbar_gray\": true,\n  \n  \"theme_agila_vertical_scrollbar_lightblue\": true,\n  \"theme_agila_horizontal_scrollbar_lightblue\": true,\n  \n  \"theme_agila_vertical_scrollbar_yellow\": true,\n  \"theme_agila_horizontal_scrollbar_yellow\": true,\n  \n  \"theme_agila_vertical_scrollbar_pink\": true,\n  \"theme_agila_horizontal_scrollbar_pink\": true,\n  ```\n  \n  ###### SCROLLBAR THINNESS (if not set, will default to thin:3)\n  #\n  ```json\n  \"theme_agila_vertical_scrollbar_thinner\": true,    //thin:2\n  \"theme_agila_horizontal_scrollbar_thinner\": true,\n  \n  \"theme_agila_vertical_scrollbar_thinnest\": true,   //thin:1\n  \"theme_agila_horizontal_scrollbar_thinnest\": true,\n  \n  \"theme_agila_vertical_scrollbar_invisible\": true,  //thin: 0\n  \"theme_agila_horizontal_scrollbar_invisible\": true,\n  ```\n  #\n  ---\n  ### Thanks to\n  - [Preap Theme](https://packagecontrol.io/packages/Preap) - UI inspiration and .sublime-theme source code :)\n  - [Spacegray Theme](http://kkga.github.io/spacegray) - UI inspiration and .sublime-theme source code :)\n  - [amCoder Theme](https://packagecontrol.io/packages/Theme%20-%20amCoder) - UI inspiration and .sublime-theme source code :)\n  - [Neka Theme](https://packagecontrol.io/packages/Neka%20Theme) - Icons\n  - [Oceanic Next Color Scheme](https://packagecontrol.io/packages/Oceanic%20Next%20Color%20Scheme) - where Default and Classic theme color scheme are based\n  - [Solarized Color Scheme](https://packagecontrol.io/packages/Solarized%20Color%20Scheme) - where Light theme color scheme is based\n  - [Colorhexa](http://www.colorhexa.com/) - color combinations\n  - `meteor create --sample todos` - screenshot code snippet :p\n  \n  ---\n  ### Fun Experiments :p\n  Have a color combination in mind or perhaps you also want to try and create your own? Check the *`Agila.sublime-theme`* source code... I made it super easy for anyone to customize a sublime UI theme through my extensive comments. :p Enjoy! :)\n",
+					"settings":
+					{
+						"buffer_size": 5473,
+						"line_ending": "Windows",
+						"name": "Package Control Messages",
+						"read_only": true,
+						"scratch": true
 					}
 				}
 			],
@@ -359,13 +411,33 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 354.0,
+				"height": 357.0,
 				"last_filter": "ip",
 				"selected_items":
 				[
 					[
 						"ip",
 						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"boxy",
+						"Boxy Theme: Activation"
+					],
+					[
+						"th",
+						"Themr: List themes"
+					],
+					[
+						"box",
+						"Boxy Theme: Activation"
+					],
+					[
+						"mater",
+						"Material Theme: Activate theme"
 					],
 					[
 						"me",
@@ -378,10 +450,6 @@
 					[
 						"shell",
 						"Set Syntax: Shell Script (Bash)"
-					],
-					[
-						"mater",
-						"Material Theme: Activate theme"
 					]
 				],
 				"width": 510.0
@@ -411,15 +479,10 @@
 			[
 				"/E/projects/基础教育资源公共平台重构/project",
 				"/E/projects/基础教育资源公共平台重构/project/component_modules",
-				"/E/projects/基础教育资源公共平台重构/project/component_modules/flyui-pager",
-				"/E/projects/基础教育资源公共平台重构/project/component_modules/flyui-pager/0.1.3",
 				"/E/projects/基础教育资源公共平台重构/project/component_modules/lib-fly",
 				"/E/projects/基础教育资源公共平台重构/project/components",
-				"/E/projects/基础教育资源公共平台重构/project/components/newslist",
+				"/E/projects/基础教育资源公共平台重构/project/components/activity",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/rank-top",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/rankNav",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-list",
 				"/E/projects/基础教育资源公共平台重构/project/views",
 				"/E/projects/基础教育资源公共平台重构/project/views/app",
 				"/E/projects/基础教育资源公共平台重构/project/views/static",
@@ -428,6 +491,14 @@
 			],
 			"file_history":
 			[
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Themr/Default (Windows).sublime-keymap",
+				"/E/projects/基础教育资源公共平台重构/project/views/static/faculty/css/faculty.css",
+				"/E/projects/基础教育资源公共平台重构/project/views/app/index.js",
+				"/C/Users/Administrator/Desktop/首页接口文件",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Themr/ThemrFavorites.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-list/show-list.js",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-list/show-list.html",
 				"/E/projects/基础教育资源公共平台重构/project/views/index.html",
@@ -435,7 +506,6 @@
 				"/E/projects/基础教育资源公共平台重构/project/views/static/faculty/pagination.js",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/pagination/pagination.js",
 				"/E/projects/基础教育资源公共平台重构/project/component_modules/flyui-pager/0.1.3/pager.js",
-				"/E/projects/基础教育资源公共平台重构/project/views/app/index.js",
 				"/E/projects/基础教育资源公共平台重构/project/views/static/faculty/css/table.css",
 				"/E/projects/基础教育资源公共平台重构/project/views/static/faculty/images/index_ic.png",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/show-table.js",
@@ -444,11 +514,9 @@
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-head.html",
 				"/E/projects/基础教育资源公共平台重构/project/views/app/resource-rank.js",
 				"/E/projects/基础教育资源公共平台重构/basic_edu_project_rank/basic_edu_project/resource_rank.html",
-				"/C/Users/Administrator/Desktop/首页接口文件",
 				"/E/projects/基础教育资源公共平台重构/project/views/resource-rank.html",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-trs.html",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/show-table.css",
-				"/E/projects/基础教育资源公共平台重构/project/views/static/faculty/css/faculty.css",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-box.html",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-title.html",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/pagination.html",
@@ -462,7 +530,6 @@
 				"/E/projects/基础教育资源公共平台重构/flyjs使用问题记录.txt",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Themr/ThemrFavorites.sublime-settings",
 				"/E/projects/basic_edu_project_index/static/index/js/jquery.index.js",
 				"/E/projects/basic_edu_project_index/index.html",
 				"/E/projects/basic_edu_project_index/static/index/css/index.css",
@@ -564,7 +631,7 @@
 			"groups":
 			[
 				{
-					"selected": 2,
+					"selected": 0,
 					"sheets":
 					[
 						{
@@ -573,15 +640,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 2896,
+								"buffer_size": 3005,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										2075,
-										2075
+										1029,
+										1029
 									]
 								],
 								"settings":
@@ -594,8 +661,8 @@
 										{
 											"1":
 											[
-												2549,
-												2554
+												1025,
+												1028
 											]
 										},
 										"icon":
@@ -610,8 +677,8 @@
 										{
 											"1":
 											[
-												2017,
-												2022
+												776,
+												779
 											]
 										},
 										"unmatched":
@@ -620,61 +687,61 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
 										"bh_curly_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
-										"bh_unmatched_content"
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
 									],
 									"c_time":
 									[
@@ -729,321 +796,19 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 801.0,
+								"translation.y": 479.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
+							"stack_index": 0,
 							"type": "text"
 						},
 						{
 							"buffer": 1,
-							"file": "/E/projects/基础教育资源公共平台重构/project/views/static/faculty/css/faculty.css",
+							"file": "/E/projects/基础教育资源公共平台重构/project/components/activity/activity.css",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 14235,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										13866,
-										13866
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										225,
-										8,
-										11,
-										9,
-										42,
-										0,
-										13,
-										220,
-										112,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"git_gutter_is_enabled": true,
-									"syntax": "Packages/CSS/CSS.sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 19385.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/C/Users/Administrator/Desktop/首页接口文件",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 38579,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										31909,
-										34878
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										225,
-										8,
-										11,
-										11,
-										0,
-										57,
-										11,
-										41,
-										8,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 22908.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/E/projects/基础教育资源公共平台重构/project/views/app/index.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 17195,
+								"buffer_size": 167,
 								"regions":
 								{
 								},
@@ -1074,61 +839,61 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
 										"bh_curly_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
-										"bh_unmatched_content"
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
 									],
 									"c_time":
 									[
@@ -1164,9 +929,9 @@
 										10,
 										9,
 										27,
-										11,
-										74,
-										160,
+										3,
+										200,
+										192,
 										113,
 										1,
 										133,
@@ -1178,38 +943,36 @@
 										46
 									],
 									"git_gutter_is_enabled": true,
-									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/CSS/CSS.sublime-syntax"
 								},
 								"translation.x": 0.0,
-								"translation.y": 69.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 4,
+							"stack_index": 1,
 							"type": "text"
 						}
 					]
 				},
 				{
-					"selected": 0,
+					"selected": 1,
 					"sheets":
 					[
 						{
-							"buffer": 4,
+							"buffer": 2,
 							"file": "/E/projects/基础教育资源公共平台重构/project/views/app/resource-rank.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 11436,
+								"buffer_size": 6475,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										500,
-										541
+										2358,
+										2358
 									]
 								],
 								"settings":
@@ -1222,15 +985,15 @@
 										{
 											"1":
 											[
-												541,
-												542
+												3040,
+												3041
 											]
 										},
 										"icon":
 										{
 											"1":
 											[
-												"Packages/BracketHighlighter/icons/single_quote.png",
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
 												"brackethighlighter.default"
 											]
 										},
@@ -1238,8 +1001,8 @@
 										{
 											"1":
 											[
-												499,
-												500
+												2328,
+												2329
 											]
 										},
 										"unmatched":
@@ -1248,61 +1011,61 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
 										"bh_curly_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
-										"bh_unmatched_content"
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
 									],
 									"c_time":
 									[
@@ -1357,10 +1120,116 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 69.0,
+								"translation.y": 1242.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5473,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1983,
+										2092
+									]
+								],
+								"settings":
+								{
+									"auto_indent": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"default_dir": "E:\\projects\\基础教育资源公共平台重构\\project",
+									"git_gutter_is_enabled": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_width": 2,
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1173.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
 							"type": "text"
 						}
 					]
@@ -1443,7 +1312,7 @@
 				],
 				"width": 0.0
 			},
-			"selected_group": 1,
+			"selected_group": 0,
 			"settings":
 			{
 			},
