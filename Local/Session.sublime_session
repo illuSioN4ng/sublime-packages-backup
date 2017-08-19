@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+		"/F/exsice/underscorejs/underscore",
 		"/E/projects/基础教育资源公共平台重构/test",
 		"/E/projects/基础教育资源公共平台重构/project",
 		"/C/Users/Administrator/Desktop/basic_edu",
@@ -16,7 +17,7 @@
 		"/E/projects/flyjs-demo"
 	],
 	"last_version": 3126,
-	"last_window_id": 34,
+	"last_window_id": 33,
 	"log_indexing": false,
 	"settings":
 	{
@@ -67,33 +68,13 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 357.0,
-				"last_filter": "",
+				"height": 354.0,
+				"last_filter": "ip",
 				"selected_items":
 				[
 					[
 						"ip",
 						"Package Control: Install Package"
-					],
-					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
-						"boxy",
-						"Boxy Theme: Activation"
-					],
-					[
-						"th",
-						"Themr: List themes"
-					],
-					[
-						"box",
-						"Boxy Theme: Activation"
-					],
-					[
-						"mater",
-						"Material Theme: Activate theme"
 					],
 					[
 						"me",
@@ -106,6 +87,10 @@
 					[
 						"shell",
 						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"mater",
+						"Material Theme: Activate theme"
 					]
 				],
 				"width": 510.0
@@ -133,11 +118,11 @@
 			},
 			"file_history":
 			[
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Themr/Default (Windows).sublime-keymap",
-				"/E/projects/基础教育资源公共平台重构/project/views/static/faculty/css/faculty.css",
+				"/E/projects/基础教育资源公共平台重构/project/views/app/resource-rank.js",
 				"/E/projects/基础教育资源公共平台重构/project/views/app/index.js",
+				"/E/projects/基础教育资源公共平台重构/project/views/static/faculty/css/faculty.css",
+				"/E/projects/基础教育资源公共平台重构/project/views/resource-rank.html",
 				"/C/Users/Administrator/Desktop/首页接口文件",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Themr/ThemrFavorites.sublime-settings",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
@@ -154,9 +139,7 @@
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/show-table.html",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-body.html",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-head.html",
-				"/E/projects/基础教育资源公共平台重构/project/views/app/resource-rank.js",
 				"/E/projects/基础教育资源公共平台重构/basic_edu_project_rank/basic_edu_project/resource_rank.html",
-				"/E/projects/基础教育资源公共平台重构/project/views/resource-rank.html",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-trs.html",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/show-table.css",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-box.html",
@@ -172,6 +155,7 @@
 				"/E/projects/基础教育资源公共平台重构/flyjs使用问题记录.txt",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Themr/ThemrFavorites.sublime-settings",
 				"/E/projects/basic_edu_project_index/static/index/js/jquery.index.js",
 				"/E/projects/basic_edu_project_index/index.html",
 				"/E/projects/basic_edu_project_index/static/index/css/index.css",
@@ -366,41 +350,65 @@
 			"buffers":
 			[
 				{
-					"file": "/E/projects/基础教育资源公共平台重构/project/views/resource-rank.html",
+					"file": "/F/exsice/underscorejs/underscore/underscore-min.js",
 					"settings":
 					{
-						"buffer_size": 3005,
+						"buffer_size": 16449,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/F/exsice/underscorejs/underscore/underscore.js",
+					"settings":
+					{
+						"buffer_size": 57667,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/E/projects/基础教育资源公共平台重构/project/components/activity/activity.css",
+					"file": "/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
 					"settings":
 					{
-						"buffer_size": 167,
-						"encoding": "UTF-8",
+						"buffer_size": 3455,
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/E/projects/基础教育资源公共平台重构/project/views/app/resource-rank.js",
+					"contents": "Package Control Messages\n========================\n\nBoxy Theme\n----------\n\n    ____     ___   __  __ __   __\n   | __ )   / _ \\  \\ \\/ / \\ \\ / /\n   |  _ \\  | | | |  \\  /   \\ V /\n   | |_) | | |_| |  /  \\    | |\n   |____/   \\___/  /_/\\_\\   |_|\n  \n  \n  Activation\n  ===========================================================================\n  \n  Activate the UI theme and color scheme by modifying your user preferences\n  file, which you can find using the menu item Preferences → Package Settings\n  → Boxy Theme → Preferences.\n  \n  Also you can use commands provided by the theme:\n  \n  1. Open Command Palette using menu item `Tools → Command Palette...`\n  2. Choose `Boxy Theme: Activation` or `Boxy Theme: Configuration`\n  3. Hit `Enter`\n  \n  Options\n  ===========================================================================\n  \n  There are dozens of options that enable you to personalize your experience\n  with Boxy Theme. See our wiki: https://github.com/ihodev/sublime-boxy/wiki\n  \n  Recommended Settings\n  ===========================================================================\n  \n  \"always_show_minimap_viewport\": true,\n  \"bold_folder_labels\": true,\n  \"caret_extra_bottom\": 1,\n  \"caret_extra_top\": 1,\n  \"caret_extra_width\": 1,\n  \"caret_style\": \"blink\",\n  \"fade_fold_buttons\": false,\n  \"indent_guide_options\": [\"draw_normal\", \"draw_active\"],\n  \"line_padding_bottom\": 2,\n  \"line_padding_top\": 2,\n  \"overlay_scroll_bars\": \"enabled\",\n  \"show_encoding\": true,\n  \"show_line_endings\": true,\n  \n  ===========================================================================\n  \n  I've put a lot of time and effort into making Boxy awesome. If you love it,\n  you can\n  \n    _\n   | |__    _   _   _   _     _ __ ___     ___\n   | '_ \\  | | | | | | | |   | '_ ` _ \\   / _ \\\n   | |_) | | |_| | | |_| |   | | | | | | |  __/\n   |_.__/   \\__,_|  \\__, |   |_| |_| |_|  \\___|\n                    |___/\n                              __    __                      __\n     __ _      ___    ___    / _|  / _|   ___    ___     _  \\ \\\n    / _` |    / __|  / _ \\  | |_  | |_   / _ \\  / _ \\   (_)  | |\n   | (_| |   | (__  | (_) | |  _| |  _| |  __/ |  __/    _   | |\n    \\__,_|    \\___|  \\___/  |_|   |_|    \\___|  \\___|   ( )  | |\n                                                        |/  /_/\n  \n  https://www.patreon.com/ihodev\n",
 					"settings":
 					{
-						"buffer_size": 6475,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"contents": "Package Control Messages\n========================\n\nAgila Theme\n-----------\n\n  # Agila Theme\n  ##### A Sublime Text 3 UI Theme\n  Couldn't find a theme I really dig, so I tried to make my own theme based on all the things/elements I like from wonderful themes I've used before. :)\n  \n  ***\n  \n  ## Screenshots\n  *Current font settings in screenshots:\n  Font face: [__Inconsolata__](https://www.google.com/fonts/specimen/Inconsolata) | Font size: 22*\n  \n  #### Agila Theme\n  ![Screenshot](https://www.dropbox.com/s/jt3choxq6b583t7/Agila%20Theme.png?raw=1)\n  \n  #### Agila Classic Theme\n  ![Screenshot](https://www.dropbox.com/s/xlg43vr2ikxogch/Agila%20Classic%20Theme.png?raw=1)\n  \n  #### Agila Light Theme\n  ![Screenshot](https://www.dropbox.com/s/tmjpeas5iuvotbd/Agila%20Light%20Theme.png?raw=1)\n  \n  ---\n  \n  ### How to Install\n  \n  ##### *Chill* way\n  via [Package Control](https://packagecontrol.io/), where Agila is listed as *`Agila Theme`*.\n  \n  1. Open Command Palette using menu item *`Tools -> Command Palette...`*\n  2. Choose `Package Control: Install Package`\n  3. Find *`Agila Theme`* and hit *`Enter`*\n  \n  ##### *Woooo* way\n  via installing the theme manually.\n  \n  1. [Download the latest release .zip](https://github.com/arvi/Agila-Theme/releases)\n  2. Unzip and rename folder to *`Agila Theme`*.\n  3. Move *`Agila Theme`* folder inside the Packages directory (*`Preferences > Browse packages...`*)\n  \n  ---\n  \n  ### How to Activate Theme\n  via User Preferences file (*`Sublime Text -> Preferences -> Settings - User`*). After setting up,\n  don't forget to **restart Sublime Text Editor** for changes to take effect.\n  \n  ##### Default theme\n  #\n  ```json\n  \"theme\": \"Agila.sublime-theme\",\n  \"color_scheme\": \"Packages/Agila Theme/Agila Oceanic Next.tmTheme\",\n  ```\n  \n  ##### Classic theme\n  #\n  ```json\n  \"theme\": \"Agila Classic.sublime-theme\",\n  \"color_scheme\": \"Packages/Agila Theme/Agila Classic Oceanic Next.tmTheme\",\n  ```\n  \n  ##### Light theme\n  #\n  ```json\n  \"theme\": \"Agila Light.sublime-theme\",\n  \"color_scheme\": \"Packages/Agila Theme/Agila Light Solarized.tmTheme\",\n  ```\n  #\n  \n  ---\n  \n  ### Settings\n  I've made some UI parts customizable e.g icon colors, sidebar items, etc.. :)\n  ###### SIDEBAR SIZE (default: medium)\n  #\n  ```json\n  \"theme_agila_sidebar_small\": true,\n  \"theme_agila_sidebar_medium\": true,\n  \"theme_agila_sidebar_large\": true,\n  ```\n  \n  ###### SIDEBAR ENTRY/ITEM FONT SIZE (if not set, will default to font size: 13)\n  #\n  ```json\n  \"theme_agila_sidebar_font_xsmall\": true, //font-size: 11\n  \"theme_agila_sidebar_font_small\": true, //font-size: 12\n  \"theme_agila_sidebar_font_big\": true, //font-size: 14\n  ```\n  \n  ###### SIDEBAR SELECTED ENTRY/ITEM (default: pink)\n  #\n  ```json\n  \"theme_agila_sidebar_selected_entry_white\": true,\n  \"theme_agila_sidebar_selected_entry_gray\": true,\n  \"theme_agila_sidebar_selected_entry_lightblue\": true,\n  \"theme_agila_sidebar_selected_entry_yellow\": true,\n  \"theme_agila_sidebar_selected_entry_pink\": true,\n  ```\n  \n  ###### MODIFIED TAB - ICON MARKER COLOR (default: light blue)\n  #\n  ```json\n  \"theme_agila_modified_tab_marker_white\": true,\n  \"theme_agila_modified_tab_marker_gray\": true,\n  \"theme_agila_modified_tab_marker_lightblue\": true,\n  \"theme_agila_modified_tab_marker_yellow\": true,\n  \"theme_agila_modified_tab_marker_pink\": true,\n  ```\n  \n  ###### SCROLLBAR COLORS\n  #\n  ```json\n  \"theme_agila_vertical_scrollbar_white\": true,\n  \"theme_agila_horizontal_scrollbar_white\": true,\n  \n  \"theme_agila_vertical_scrollbar_gray\": true,\n  \"theme_agila_horizontal_scrollbar_gray\": true,\n  \n  \"theme_agila_vertical_scrollbar_lightblue\": true,\n  \"theme_agila_horizontal_scrollbar_lightblue\": true,\n  \n  \"theme_agila_vertical_scrollbar_yellow\": true,\n  \"theme_agila_horizontal_scrollbar_yellow\": true,\n  \n  \"theme_agila_vertical_scrollbar_pink\": true,\n  \"theme_agila_horizontal_scrollbar_pink\": true,\n  ```\n  \n  ###### SCROLLBAR THINNESS (if not set, will default to thin:3)\n  #\n  ```json\n  \"theme_agila_vertical_scrollbar_thinner\": true,    //thin:2\n  \"theme_agila_horizontal_scrollbar_thinner\": true,\n  \n  \"theme_agila_vertical_scrollbar_thinnest\": true,   //thin:1\n  \"theme_agila_horizontal_scrollbar_thinnest\": true,\n  \n  \"theme_agila_vertical_scrollbar_invisible\": true,  //thin: 0\n  \"theme_agila_horizontal_scrollbar_invisible\": true,\n  ```\n  #\n  ---\n  ### Thanks to\n  - [Preap Theme](https://packagecontrol.io/packages/Preap) - UI inspiration and .sublime-theme source code :)\n  - [Spacegray Theme](http://kkga.github.io/spacegray) - UI inspiration and .sublime-theme source code :)\n  - [amCoder Theme](https://packagecontrol.io/packages/Theme%20-%20amCoder) - UI inspiration and .sublime-theme source code :)\n  - [Neka Theme](https://packagecontrol.io/packages/Neka%20Theme) - Icons\n  - [Oceanic Next Color Scheme](https://packagecontrol.io/packages/Oceanic%20Next%20Color%20Scheme) - where Default and Classic theme color scheme are based\n  - [Solarized Color Scheme](https://packagecontrol.io/packages/Solarized%20Color%20Scheme) - where Light theme color scheme is based\n  - [Colorhexa](http://www.colorhexa.com/) - color combinations\n  - `meteor create --sample todos` - screenshot code snippet :p\n  \n  ---\n  ### Fun Experiments :p\n  Have a color combination in mind or perhaps you also want to try and create your own? Check the *`Agila.sublime-theme`* source code... I made it super easy for anyone to customize a sublime UI theme through my extensive comments. :p Enjoy! :)\n",
-					"settings":
-					{
-						"buffer_size": 5473,
+						"buffer_size": 2315,
 						"line_ending": "Windows",
 						"name": "Package Control Messages",
 						"read_only": true,
 						"scratch": true
+					}
+				},
+				{
+					"file": "/F/exsice/underscorejs/underscore/.jshintrc",
+					"settings":
+					{
+						"buffer_size": 7951,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+					"settings":
+					{
+						"buffer_size": 6042,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/.jsbeautifyrc",
+					"settings":
+					{
+						"buffer_size": 56,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
 					}
 				}
 			],
@@ -411,10 +419,14 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 357.0,
-				"last_filter": "ip",
+				"height": 272.0,
+				"last_filter": "json",
 				"selected_items":
 				[
+					[
+						"json",
+						"JSHint: Set Plugin Options"
+					],
 					[
 						"ip",
 						"Package Control: Install Package"
@@ -424,32 +436,16 @@
 						"Package Control: Remove Package"
 					],
 					[
-						"boxy",
-						"Boxy Theme: Activation"
-					],
-					[
-						"th",
-						"Themr: List themes"
-					],
-					[
-						"box",
-						"Boxy Theme: Activation"
-					],
-					[
-						"mater",
-						"Material Theme: Activate theme"
-					],
-					[
 						"me",
 						"Material Theme: Activate theme"
 					],
 					[
-						"json",
-						"Set Syntax: JSON"
-					],
-					[
 						"shell",
 						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"mater",
+						"Material Theme: Activate theme"
 					]
 				],
 				"width": 510.0
@@ -477,25 +473,18 @@
 			},
 			"expanded_folders":
 			[
-				"/E/projects/基础教育资源公共平台重构/project",
-				"/E/projects/基础教育资源公共平台重构/project/component_modules",
-				"/E/projects/基础教育资源公共平台重构/project/component_modules/lib-fly",
-				"/E/projects/基础教育资源公共平台重构/project/components",
-				"/E/projects/基础教育资源公共平台重构/project/components/activity",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage",
-				"/E/projects/基础教育资源公共平台重构/project/views",
-				"/E/projects/基础教育资源公共平台重构/project/views/app",
-				"/E/projects/基础教育资源公共平台重构/project/views/static",
-				"/E/projects/基础教育资源公共平台重构/project/views/static/faculty",
-				"/E/projects/基础教育资源公共平台重构/project/views/static/faculty/css"
+				"/F/exsice/underscorejs/underscore"
 			],
 			"file_history":
 			[
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Themr/Default (Windows).sublime-keymap",
-				"/E/projects/基础教育资源公共平台重构/project/views/static/faculty/css/faculty.css",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/JSHint Gutter/JSHint.sublime-settings",
+				"/F/exsice/underscorejs/underscore/.jshintrc",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+				"/E/projects/基础教育资源公共平台重构/project/views/app/resource-rank.js",
 				"/E/projects/基础教育资源公共平台重构/project/views/app/index.js",
+				"/E/projects/基础教育资源公共平台重构/project/views/static/faculty/css/faculty.css",
+				"/E/projects/基础教育资源公共平台重构/project/views/resource-rank.html",
 				"/C/Users/Administrator/Desktop/首页接口文件",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Themr/ThemrFavorites.sublime-settings",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
@@ -512,9 +501,7 @@
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/show-table.html",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-body.html",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-head.html",
-				"/E/projects/基础教育资源公共平台重构/project/views/app/resource-rank.js",
 				"/E/projects/基础教育资源公共平台重构/basic_edu_project_rank/basic_edu_project/resource_rank.html",
-				"/E/projects/基础教育资源公共平台重构/project/views/resource-rank.html",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-trs.html",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/show-table.css",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-box.html",
@@ -530,6 +517,7 @@
 				"/E/projects/基础教育资源公共平台重构/flyjs使用问题记录.txt",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Themr/ThemrFavorites.sublime-settings",
 				"/E/projects/basic_edu_project_index/static/index/js/jquery.index.js",
 				"/E/projects/basic_edu_project_index/index.html",
 				"/E/projects/basic_edu_project_index/static/index/css/index.css",
@@ -561,6 +549,10 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"space",
+					"{",
+					"max",
+					"undefined",
 					"console",
 					"conso",
 					"showListSource",
@@ -625,61 +617,45 @@
 			"folders":
 			[
 				{
-					"path": "E:\\projects\\基础教育资源公共平台重构\\project"
+					"path": "F:\\exsice\\underscorejs\\underscore"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 3,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/E/projects/基础教育资源公共平台重构/project/views/resource-rank.html",
+							"file": "/F/exsice/underscorejs/underscore/underscore-min.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 3005,
+								"buffer_size": 16449,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1029,
-										1029
+										93,
+										93
 									]
 								],
 								"settings":
 								{
-									"auto_complete": false,
 									"bracket_highlighter.busy": false,
 									"bracket_highlighter.locations":
 									{
 										"close":
 										{
-											"1":
-											[
-												1025,
-												1028
-											]
 										},
 										"icon":
 										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/tag.png",
-												"brackethighlighter.default"
-											]
 										},
 										"open":
 										{
-											"1":
-											[
-												776,
-												779
-											]
 										},
 										"unmatched":
 										{
@@ -687,6 +663,31 @@
 									},
 									"bracket_highlighter.regions":
 									[
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
@@ -697,41 +698,6 @@
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
@@ -741,7 +707,17 @@
 										"bh_round_center",
 										"bh_round_open",
 										"bh_round_close",
-										"bh_round_content"
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
 									],
 									"c_time":
 									[
@@ -773,13 +749,13 @@
 										7,
 										225,
 										8,
-										11,
-										9,
-										27,
-										0,
-										8,
-										90,
-										72,
+										5,
+										22,
+										46,
+										58,
+										6,
+										187,
+										39,
 										113,
 										1,
 										133,
@@ -791,188 +767,30 @@
 										46
 									],
 									"git_gutter_is_enabled": true,
-									"syntax": "Packages/HTML/HTML.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 479.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/E/projects/基础教育资源公共平台重构/project/components/activity/activity.css",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 167,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										225,
-										8,
-										10,
-										10,
-										9,
-										27,
-										3,
-										200,
-										192,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"git_gutter_is_enabled": true,
-									"syntax": "Packages/CSS/CSS.sublime-syntax"
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 6,
 							"type": "text"
-						}
-					]
-				},
-				{
-					"selected": 1,
-					"sheets":
-					[
+						},
 						{
-							"buffer": 2,
-							"file": "/E/projects/基础教育资源公共平台重构/project/views/app/resource-rank.js",
+							"buffer": 1,
+							"file": "/F/exsice/underscorejs/underscore/underscore.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 6475,
+								"buffer_size": 57667,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										2358,
-										2358
+										3691,
+										3691
 									]
 								],
 								"settings":
@@ -983,10 +801,163 @@
 									{
 										"close":
 										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										225,
+										8,
+										5,
+										22,
+										46,
+										58,
+										6,
+										210,
+										151,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2010.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3455,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										223,
+										223
+									]
+								],
+								"settings":
+								{
+									"auto_complete": true,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
 											"1":
 											[
-												3040,
-												3041
+												342,
+												343
 											]
 										},
 										"icon":
@@ -1001,8 +972,8 @@
 										{
 											"1":
 											[
-												2328,
-												2329
+												222,
+												223
 											]
 										},
 										"unmatched":
@@ -1011,41 +982,41 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
 										"bh_double_quote_close",
 										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
@@ -1061,11 +1032,11 @@
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
 									],
 									"c_time":
 									[
@@ -1097,13 +1068,13 @@
 										7,
 										225,
 										8,
-										11,
-										9,
-										37,
-										4,
-										3,
-										116,
-										96,
+										17,
+										21,
+										14,
+										21,
+										5,
+										110,
+										249,
 										113,
 										1,
 										133,
@@ -1115,15 +1086,15 @@
 										46
 									],
 									"git_gutter_is_enabled": true,
-									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 1242.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 3,
+							"stack_index": 1,
 							"type": "text"
 						},
 						{
@@ -1131,15 +1102,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 5473,
+								"buffer_size": 2315,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1983,
-										2092
+										206,
+										206
 									]
 								],
 								"settings":
@@ -1163,41 +1134,41 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
 										"bh_double_quote_close",
 										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
@@ -1213,20 +1184,494 @@
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
 									],
-									"default_dir": "E:\\projects\\基础教育资源公共平台重构\\project",
+									"default_dir": "F:\\exsice\\underscorejs\\underscore",
 									"git_gutter_is_enabled": false,
 									"syntax": "Packages/Text/Plain text.tmLanguage",
 									"tab_width": 2,
 									"word_wrap": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 1173.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/F/exsice/underscorejs/underscore/.jshintrc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7951,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										926,
+										926
+									]
+								],
+								"settings":
+								{
+									"auto_complete": true,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+											"1":
+											[
+												0,
+												1
+											]
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										225,
+										8,
+										19,
+										20,
+										59,
+										4,
+										1,
+										134,
+										138,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 515.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6042,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2851,
+										2856
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										225,
+										8,
+										17,
+										21,
+										14,
+										21,
+										5,
+										99,
+										65,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 193.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/.jsbeautifyrc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 56,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										50,
+										50
+									]
+								],
+								"settings":
+								{
+									"auto_complete": true,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												53,
+												54
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												11,
+												12
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										225,
+										8,
+										20,
+										7,
+										28,
+										35,
+										12,
+										42,
+										194,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 2,
@@ -1252,18 +1697,11 @@
 						0,
 						1,
 						1
-					],
-					[
-						1,
-						0,
-						2,
-						1
 					]
 				],
 				"cols":
 				[
 					0.0,
-					0.5,
 					1.0
 				],
 				"rows":
@@ -1278,11 +1716,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,892,583,196,1778",
+			"position": "0,2,3,-1,-1,-1,-1,1120,102,424,1297",
 			"project": "",
 			"replace":
 			{
-				"height": 94.0
+				"height": 62.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1325,7 +1763,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 22,
+			"window_id": 33,
 			"workspace_name": ""
 		}
 	],
