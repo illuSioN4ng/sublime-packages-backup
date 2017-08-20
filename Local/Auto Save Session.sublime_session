@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+		"/F/exsice/underscorejs/underscore",
 		"/E/projects/基础教育资源公共平台重构/test",
 		"/E/projects/基础教育资源公共平台重构/project",
 		"/C/Users/Administrator/Desktop/basic_edu",
@@ -16,7 +17,7 @@
 		"/E/projects/flyjs-demo"
 	],
 	"last_version": 3126,
-	"last_window_id": 45,
+	"last_window_id": 46,
 	"log_indexing": false,
 	"settings":
 	{
@@ -145,7 +146,15 @@
 			},
 			"file_history":
 			[
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
 				"/E/projects/基础教育资源公共平台重构/project/components/boot/boot.css",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/JsFormat/Default (Windows).sublime-keymap",
+				"/E/projects/基础教育资源公共平台重构/首页接口文件",
+				"/E/projects/基础教育资源公共平台重构/project/components/common-footer/common-footer.css",
+				"/E/projects/基础教育资源公共平台重构/project/components/bottom/bottom.css",
+				"/E/projects/基础教育资源公共平台重构/project/components/announcementList/announcementList.css",
+				"/E/projects/基础教育资源公共平台重构/project/components/activity/activity.css",
+				"/E/projects/基础教育资源公共平台重构/project/views/app/resource-rank.js",
 				"/E/projects/基础教育资源公共平台重构/project/views/resource-rank.html",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Boxy Theme/Boxy Tomorrow.sublime-theme",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Color Scheme - Default/Monokai.tmTheme",
@@ -170,7 +179,6 @@
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/show-table.html",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-body.html",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-head.html",
-				"/E/projects/基础教育资源公共平台重构/project/views/app/resource-rank.js",
 				"/E/projects/基础教育资源公共平台重构/basic_edu_project_rank/basic_edu_project/resource_rank.html",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-trs.html",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/show-table.css",
@@ -183,7 +191,6 @@
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/rank-top/rank-top.js",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-list/show-list.css",
 				"/E/projects/基础教育资源公共平台重构/project/components/announcementList/announcementList.js",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
 				"/E/projects/基础教育资源公共平台重构/flyjs使用问题记录.txt",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
@@ -204,7 +211,7 @@
 			],
 			"find":
 			{
-				"height": 26.0
+				"height": 48.0
 			},
 			"find_in_files":
 			{
@@ -281,7 +288,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 26.0
+				"height": 33.0
 			},
 			"input":
 			{
@@ -295,7 +302,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 48.0
+				"height": 94.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -385,87 +392,47 @@
 			"buffers":
 			[
 				{
-					"file": "/E/projects/基础教育资源公共平台重构/project/components/activity/activity.css",
+					"file": "/F/exsice/underscorejs/underscore/underscore.js",
 					"settings":
 					{
-						"buffer_size": 177,
+						"buffer_size": 57678,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/E/projects/基础教育资源公共平台重构/project/components/announcementList/announcementList.css",
+					"file": "/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/JSHint Gutter/.jshintrc",
 					"settings":
 					{
-						"buffer_size": 873,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/E/projects/基础教育资源公共平台重构/project/components/bottom/bottom.css",
-					"settings":
-					{
-						"buffer_size": 1321,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"contents": "h1 {\n  color: red;\n  -webkit-transform: translateX(2);\n      -ms-transform: translateX(2);\n          transform: translateX(2);\n}",
-					"file": "/E/projects/基础教育资源公共平台重构/project/components/boot/boot.css",
-					"file_size": 48,
-					"file_write_time": 131474967914172005,
-					"settings":
-					{
-						"buffer_size": 128,
+						"buffer_size": 0,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/E/projects/基础教育资源公共平台重构/project/components/common-footer/common-footer.css",
+					"file": "/F/exsice/underscorejs/underscore/karma.conf.js",
 					"settings":
 					{
-						"buffer_size": 495,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/E/projects/基础教育资源公共平台重构/首页接口文件",
-					"settings":
-					{
-						"buffer_size": 38579,
+						"buffer_size": 973,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/E/projects/基础教育资源公共平台重构/project/views/app/resource-rank.js",
+					"file": "/F/exsice/underscorejs/underscore/.jshintrc",
 					"settings":
 					{
-						"buffer_size": 6475,
+						"buffer_size": 7970,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"contents": "[\n    {\n        \"keys\": [\"ctrl+alt+f\"], \"command\": \"js_format\",\n        \"context\": [{\"key\": \"selector\", \"operator\": \"equal\", \"operand\": \"source.js,source.json\"}]\n    }\n]",
-					"file": "/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/JsFormat/Default (Windows).sublime-keymap",
-					"file_size": -1,
-					"file_write_time": -1,
+					"file": "/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/JSHint Gutter/JSHint.sublime-settings",
 					"settings":
 					{
-						"buffer_size": 169,
-						"line_ending": "Windows",
-						"read_only": true,
-						"scratch": true
-					}
-				},
-				{
-					"file": "/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
-					"settings":
-					{
-						"buffer_size": 394,
+						"buffer_size": 791,
+						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
 				}
@@ -477,10 +444,18 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 210.0,
-				"last_filter": "remove",
+				"height": 357.0,
+				"last_filter": "ip",
 				"selected_items":
 				[
+					[
+						"ip",
+						"Package Control: Install Package"
+					],
+					[
+						"jsh",
+						"JSHint"
+					],
 					[
 						"remove",
 						"Package Control: Remove Package"
@@ -492,10 +467,6 @@
 					[
 						"install",
 						"Package Control: Install Package"
-					],
-					[
-						"ip",
-						"Set Syntax: Io Repl"
 					],
 					[
 						"boxy",
@@ -551,25 +522,21 @@
 			},
 			"expanded_folders":
 			[
-				"/E/projects/基础教育资源公共平台重构/project",
-				"/E/projects/基础教育资源公共平台重构/project/component_modules",
-				"/E/projects/基础教育资源公共平台重构/project/component_modules/lib-fly",
-				"/E/projects/基础教育资源公共平台重构/project/components",
-				"/E/projects/基础教育资源公共平台重构/project/components/activity",
-				"/E/projects/基础教育资源公共平台重构/project/components/announcementList",
-				"/E/projects/基础教育资源公共平台重构/project/components/boot",
-				"/E/projects/基础教育资源公共平台重构/project/components/bottom",
-				"/E/projects/基础教育资源公共平台重构/project/components/common-footer",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage",
-				"/E/projects/基础教育资源公共平台重构/project/views",
-				"/E/projects/基础教育资源公共平台重构/project/views/app",
-				"/E/projects/基础教育资源公共平台重构/project/views/static",
-				"/E/projects/基础教育资源公共平台重构/project/views/static/faculty",
-				"/E/projects/基础教育资源公共平台重构/project/views/static/faculty/css"
+				"/F/exsice/underscorejs/underscore"
 			],
 			"file_history":
 			[
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/JSHint Gutter/.jshintrc",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/JSHint Gutter/JSHint.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
 				"/E/projects/基础教育资源公共平台重构/project/components/boot/boot.css",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/JsFormat/Default (Windows).sublime-keymap",
+				"/E/projects/基础教育资源公共平台重构/首页接口文件",
+				"/E/projects/基础教育资源公共平台重构/project/components/common-footer/common-footer.css",
+				"/E/projects/基础教育资源公共平台重构/project/components/bottom/bottom.css",
+				"/E/projects/基础教育资源公共平台重构/project/components/announcementList/announcementList.css",
+				"/E/projects/基础教育资源公共平台重构/project/components/activity/activity.css",
+				"/E/projects/基础教育资源公共平台重构/project/views/app/resource-rank.js",
 				"/E/projects/基础教育资源公共平台重构/project/views/resource-rank.html",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Boxy Theme/Boxy Tomorrow.sublime-theme",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Color Scheme - Default/Monokai.tmTheme",
@@ -594,7 +561,6 @@
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/show-table.html",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-body.html",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-head.html",
-				"/E/projects/基础教育资源公共平台重构/project/views/app/resource-rank.js",
 				"/E/projects/基础教育资源公共平台重构/basic_edu_project_rank/basic_edu_project/resource_rank.html",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-trs.html",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/show-table.css",
@@ -607,7 +573,6 @@
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/rank-top/rank-top.js",
 				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-list/show-list.css",
 				"/E/projects/基础教育资源公共平台重构/project/components/announcementList/announcementList.js",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
 				"/E/projects/基础教育资源公共平台重构/flyjs使用问题记录.txt",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
 				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
@@ -642,6 +607,16 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"===",
+					"null",
+					"global",
+					"str",
+					"node",
+					"use s",
+					"stri",
+					"export",
+					"return",
+					"function (",
 					"console",
 					"conso",
 					"showListSource",
@@ -706,989 +681,30 @@
 			"folders":
 			[
 				{
-					"path": "E:\\projects\\基础教育资源公共平台重构\\project"
+					"path": "F:\\exsice\\underscorejs\\underscore"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 3,
+					"selected": 1,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/E/projects/基础教育资源公共平台重构/project/components/activity/activity.css",
+							"file": "/F/exsice/underscorejs/underscore/underscore.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 177,
+								"buffer_size": 57678,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										167,
-										167
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										225,
-										8,
-										10,
-										10,
-										9,
-										27,
-										3,
-										200,
-										192,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"git_gutter_is_enabled": true,
-									"syntax": "Packages/CSS/CSS.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/E/projects/基础教育资源公共平台重构/project/components/announcementList/announcementList.css",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 873,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										242,
-										242
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										225,
-										8,
-										10,
-										10,
-										9,
-										27,
-										3,
-										239,
-										208,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"git_gutter_is_enabled": true,
-									"syntax": "Packages/CSS/CSS.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 138.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/E/projects/基础教育资源公共平台重构/project/components/bottom/bottom.css",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1321,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										282,
-										282
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												284,
-												285
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/curly_bracket.png",
-												"brackethighlighter.default"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												241,
-												242
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										225,
-										8,
-										10,
-										10,
-										9,
-										27,
-										4,
-										65,
-										216,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"git_gutter_is_enabled": true,
-									"syntax": "Packages/CSS/CSS.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/E/projects/基础教育资源公共平台重构/project/components/boot/boot.css",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 128,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										128,
-										128
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												127,
-												128
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/curly_bracket.png",
-												"brackethighlighter.default"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												3,
-												4
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										225,
-										8,
-										10,
-										10,
-										9,
-										27,
-										4,
-										42,
-										104,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"git_gutter_is_enabled": true,
-									"syntax": "Packages/CSS/CSS.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/E/projects/基础教育资源公共平台重构/project/components/common-footer/common-footer.css",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 495,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										414,
-										414
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												413,
-												414
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/curly_bracket.png",
-												"brackethighlighter.default"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												153,
-												154
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										225,
-										8,
-										11,
-										10,
-										58,
-										34,
-										10,
-										199,
-										96,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"git_gutter_is_enabled": true,
-									"syntax": "Packages/CSS/CSS.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/E/projects/基础教育资源公共平台重构/首页接口文件",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 38579,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										31801,
-										31801
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										225,
-										8,
-										11,
-										11,
-										0,
-										57,
-										11,
-										41,
-										8,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"git_gutter_is_enabled": false,
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 21871.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 8,
-							"type": "text"
-						}
-					]
-				},
-				{
-					"selected": 0,
-					"sheets":
-					[
-						{
-							"buffer": 6,
-							"file": "/E/projects/基础教育资源公共平台重构/project/views/app/resource-rank.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 6475,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										5164,
-										5164
+										484,
+										484
 									]
 								],
 								"settings":
@@ -1710,18 +726,33 @@
 										{
 											"1":
 											[
-												6047,
-												6048
+												228,
+												229
 											]
 										}
 									},
 									"bracket_highlighter.regions":
 									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
@@ -1732,41 +763,26 @@
 										"bh_unmatched_open",
 										"bh_unmatched_close",
 										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
 										"bh_double_quote_close",
 										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
 										"bh_angle_close",
 										"bh_angle_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
@@ -1803,13 +819,13 @@
 										7,
 										225,
 										8,
-										11,
-										9,
-										37,
-										4,
-										3,
-										116,
-										96,
+										5,
+										22,
+										46,
+										58,
+										6,
+										210,
+										151,
 										113,
 										1,
 										133,
@@ -1822,142 +838,23 @@
 									],
 									"git_gutter_is_enabled": true,
 									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-									"tab_size": 4,
+									"tab_size": 2,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
 								"translation.y": 2760.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 5,
+							"stack_index": 1,
 							"type": "text"
 						},
 						{
-							"buffer": 7,
-							"file": "/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/JsFormat/Default (Windows).sublime-keymap",
+							"buffer": 1,
+							"file": "/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/JSHint Gutter/.jshintrc",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 169,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										169,
-										169
-									]
-								],
-								"settings":
-								{
-									"auto_complete": true,
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												168,
-												169
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/square_bracket.png",
-												"brackethighlighter.default"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												0,
-												1
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
-									],
-									"git_gutter_is_enabled": false,
-									"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 6,
-							"type": "text"
-						},
-						{
-							"buffer": 8,
-							"file": "/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 394,
+								"buffer_size": 0,
 								"regions":
 								{
 								},
@@ -1975,27 +872,12 @@
 									{
 										"close":
 										{
-											"1":
-											[
-												392,
-												393
-											]
 										},
 										"icon":
 										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/square_bracket.png",
-												"brackethighlighter.default"
-											]
 										},
 										"open":
 										{
-											"1":
-											[
-												0,
-												1
-											]
 										},
 										"unmatched":
 										{
@@ -2003,11 +885,26 @@
 									},
 									"bracket_highlighter.regions":
 									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
@@ -2018,41 +915,26 @@
 										"bh_unmatched_open",
 										"bh_unmatched_close",
 										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
 										"bh_double_quote_close",
 										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
 										"bh_angle_close",
 										"bh_angle_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
@@ -2089,13 +971,502 @@
 										7,
 										225,
 										8,
-										11,
-										9,
-										56,
-										1,
+										20,
+										8,
+										35,
+										10,
 										0,
-										161,
-										184,
+										34,
+										130,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/F/exsice/underscorejs/underscore/karma.conf.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 973,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										396,
+										396
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												967,
+												968
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												301,
+												302
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										225,
+										8,
+										5,
+										22,
+										46,
+										58,
+										6,
+										54,
+										84,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 345.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/F/exsice/underscorejs/underscore/.jshintrc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7970,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4737,
+										4737
+									]
+								],
+								"settings":
+								{
+									"auto_complete": true,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										225,
+										8,
+										19,
+										20,
+										59,
+										4,
+										1,
+										134,
+										138,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 4663.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/JSHint Gutter/JSHint.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 791,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										469,
+										469
+									]
+								],
+								"settings":
+								{
+									"auto_complete": true,
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												789,
+												790
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												0,
+												1
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										225,
+										8,
+										20,
+										8,
+										35,
+										10,
+										0,
+										139,
+										251,
 										113,
 										1,
 										133,
@@ -2112,10 +1483,10 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 138.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 7,
+							"stack_index": 4,
 							"type": "text"
 						}
 					]
@@ -2123,7 +1494,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 33.0
+				"height": 26.0
 			},
 			"input":
 			{
@@ -2138,18 +1509,11 @@
 						0,
 						1,
 						1
-					],
-					[
-						1,
-						0,
-						2,
-						1
 					]
 				],
 				"cols":
 				[
 					0.0,
-					0.5,
 					1.0
 				],
 				"rows":
@@ -2164,11 +1528,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,892,583,196,1778",
+			"position": "0,2,3,-1,-1,-1,-1,768,100,72,1295",
 			"project": "",
 			"replace":
 			{
-				"height": 94.0
+				"height": 48.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -2211,1068 +1575,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 22,
-			"workspace_name": ""
-		},
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"document",
-						"document.body"
-					],
-					[
-						"trans",
-						"translateX()"
-					],
-					[
-						"th",
-						"thSortBtns"
-					],
-					[
-						"table",
-						"tableHead"
-					],
-					[
-						"tableB",
-						"tableBodyTpl〔variable〕"
-					],
-					[
-						"pageS",
-						"pageSource〔variable〕"
-					],
-					[
-						"rank",
-						"rankNav"
-					],
-					[
-						"sh",
-						"showListDataSource"
-					],
-					[
-						"dat",
-						"dataInit"
-					],
-					[
-						"ajax",
-						"ajaxRequestsArray"
-					]
-				]
-			},
-			"buffers":
-			[
-				{
-					"file": "/E/projects/基础教育资源公共平台重构/test/views/index.html",
-					"settings":
-					{
-						"buffer_size": 1001,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/E/projects/基础教育资源公共平台重构/test/views/app/index.js",
-					"settings":
-					{
-						"buffer_size": 780,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/E/projects/基础教育资源公共平台重构/test/views/css/page.css",
-					"settings":
-					{
-						"buffer_size": 45514,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/E/projects/基础教育资源公共平台重构/test/views/themes/default.css",
-					"settings":
-					{
-						"buffer_size": 74106,
-						"line_ending": "Unix"
-					}
-				}
-			],
-			"build_system": "",
-			"build_system_choices":
-			[
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 210.0,
-				"last_filter": "remove",
-				"selected_items":
-				[
-					[
-						"remove",
-						"Package Control: Remove Package"
-					],
-					[
-						"packageR",
-						"PackageResourceViewer: Open Resource"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"ip",
-						"Set Syntax: Io Repl"
-					],
-					[
-						"boxy",
-						"Boxy Theme: Activation"
-					],
-					[
-						"th",
-						"Themr: List themes"
-					],
-					[
-						"box",
-						"Boxy Theme: Activation"
-					],
-					[
-						"mater",
-						"Material Theme: Activate theme"
-					],
-					[
-						"me",
-						"Material Theme: Activate theme"
-					],
-					[
-						"json",
-						"Set Syntax: JSON"
-					],
-					[
-						"shell",
-						"Set Syntax: Shell Script (Bash)"
-					]
-				],
-				"width": 510.0
-			},
-			"console":
-			{
-				"height": 126.0,
-				"history":
-				[
-					"cd .idea",
-					"-ls",
-					"ls",
-					"fly release -wL",
-					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"expanded_folders":
-			[
-				"/E/projects/基础教育资源公共平台重构/test",
-				"/E/projects/基础教育资源公共平台重构/test/views",
-				"/E/projects/基础教育资源公共平台重构/test/views/app",
-				"/E/projects/基础教育资源公共平台重构/test/views/css",
-				"/E/projects/基础教育资源公共平台重构/test/views/themes"
-			],
-			"file_history":
-			[
-				"/E/projects/基础教育资源公共平台重构/project/components/boot/boot.css",
-				"/E/projects/基础教育资源公共平台重构/project/views/resource-rank.html",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Boxy Theme/Boxy Tomorrow.sublime-theme",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Color Scheme - Default/Monokai.tmTheme",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Themr/Default (Windows).sublime-keymap",
-				"/E/projects/基础教育资源公共平台重构/project/views/static/faculty/css/faculty.css",
-				"/E/projects/基础教育资源公共平台重构/project/views/app/index.js",
-				"/C/Users/Administrator/Desktop/首页接口文件",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Themr/ThemrFavorites.sublime-settings",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-list/show-list.js",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-list/show-list.html",
-				"/E/projects/基础教育资源公共平台重构/project/views/index.html",
-				"/D/pac.txt",
-				"/E/projects/基础教育资源公共平台重构/project/views/static/faculty/pagination.js",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/pagination/pagination.js",
-				"/E/projects/基础教育资源公共平台重构/project/component_modules/flyui-pager/0.1.3/pager.js",
-				"/E/projects/基础教育资源公共平台重构/project/views/static/faculty/css/table.css",
-				"/E/projects/基础教育资源公共平台重构/project/views/static/faculty/images/index_ic.png",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/show-table.js",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/show-table.html",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-body.html",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-head.html",
-				"/E/projects/基础教育资源公共平台重构/project/views/app/resource-rank.js",
-				"/E/projects/基础教育资源公共平台重构/basic_edu_project_rank/basic_edu_project/resource_rank.html",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-trs.html",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/show-table.css",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-box.html",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-title.html",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/pagination.html",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/rank-top/rank-top.html",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/rankNav/rankNav.html",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/rankNav/rankNav.js",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/rank-top/rank-top.js",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-list/show-list.css",
-				"/E/projects/基础教育资源公共平台重构/project/components/announcementList/announcementList.js",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
-				"/E/projects/基础教育资源公共平台重构/flyjs使用问题记录.txt",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
-				"/E/projects/basic_edu_project_index/static/index/js/jquery.index.js",
-				"/E/projects/basic_edu_project_index/index.html",
-				"/E/projects/basic_edu_project_index/static/index/css/index.css",
-				"/E/projects/carousel/carousel.js",
-				"/E/projects/carouse/carousel/carousel.js",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/TortoiseSVN/TortoiseSVN.sublime-settings",
-				"/C/Users/Administrator/AppData/Local/.fly-tmp/www/public/vast-test/0.0.1/index.html",
-				"/C/Users/Administrator/AppData/Local/.fly-tmp/www/public/flyjs-demo/1.0.0/lib/lib.js",
-				"/C/Users/Administrator/AppData/Local/.fly-tmp/www/public/flyjs-demo/1.0.0/lib/fly.require.js",
-				"/C/Users/Administrator/AppData/Local/.fly-tmp/www/public/flyjs-demo/1.0.0/app/index.js",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
-				"/C/Users/Administrator/AppData/Roaming/npm-cache/fly/0.3.2/package/package.json",
-				"/C/Users/Administrator/AppData/Roaming/npm/node_modules/fly/package.json",
-				"/C/Users/Administrator/AppData/Roaming/npm/node_modules/fly/bin/fly"
-			],
-			"find":
-			{
-				"height": 48.0
-			},
-			"find_in_files":
-			{
-				"height": 139.0,
-				"where_history":
-				[
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"widget",
-					"console",
-					"conso",
-					"showListSource",
-					"sortMythod",
-					"$thSortBtns",
-					"sortInfo",
-					"_clickHandler",
-					"pager",
-					"dataSource",
-					"Source",
-					"_click",
-					"dataSource",
-					"_clickHandler",
-					"pager",
-					"current",
-					"_clickHandler",
-					"pageNumberView",
-					"class",
-					"current",
-					"_appendRange",
-					"_createLink",
-					"class",
-					"current",
-					"number",
-					".number",
-					"_clickHandler",
-					"number",
-					"data-sorting-mythod",
-					"sorting-method",
-					"table.dataTable",
-					"newsList",
-					".page a",
-					"page",
-					"show_table",
-					"=",
-					"                 \n",
-					"consult-edu-list",
-					"icon.gif",
-					"fix-header",
-					"login_banner_li",
-					"yx-rotation-focus",
-					"\t\t\t\t\n",
-					"yx-rotaion"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					"pagination",
-					"table.table_box",
-					": .page div.number span",
-					": "
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"folders":
-			[
-				{
-					"path": "E:\\projects\\基础教育资源公共平台重构\\test"
-				}
-			],
-			"groups":
-			[
-				{
-					"selected": 0,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "/E/projects/基础教育资源公共平台重构/test/views/index.html",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1001,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										397,
-										397
-									]
-								],
-								"settings":
-								{
-									"auto_complete": false,
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										225,
-										8,
-										14,
-										8,
-										25,
-										56,
-										12,
-										221,
-										4,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"git_gutter_is_enabled": false,
-									"syntax": "Packages/HTML/HTML.sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						}
-					]
-				},
-				{
-					"selected": 1,
-					"sheets":
-					[
-						{
-							"buffer": 1,
-							"file": "/E/projects/基础教育资源公共平台重构/test/views/app/index.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 780,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										729,
-										729
-									]
-								],
-								"settings":
-								{
-									"auto_complete": false,
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												734,
-												735
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/curly_bracket.png",
-												"brackethighlighter.default"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												646,
-												647
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										225,
-										8,
-										14,
-										8,
-										25,
-										56,
-										12,
-										221,
-										4,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"git_gutter_is_enabled": false,
-									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/E/projects/基础教育资源公共平台重构/test/views/css/page.css",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 45514,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										42710,
-										42710
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												42711,
-												42712
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/curly_bracket.png",
-												"brackethighlighter.default"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												42629,
-												42630
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										225,
-										8,
-										14,
-										9,
-										52,
-										0,
-										14,
-										29,
-										72,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"git_gutter_is_enabled": false,
-									"syntax": "Packages/CSS/CSS.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 63597.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/E/projects/基础教育资源公共平台重构/test/views/themes/default.css",
-							"semi_transient": true,
-							"settings":
-							{
-								"buffer_size": 74106,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										225,
-										8,
-										14,
-										9,
-										52,
-										0,
-										14,
-										56,
-										160,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"git_gutter_is_enabled": false,
-									"syntax": "Packages/CSS/CSS.sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						}
-					]
-				}
-			],
-			"incremental_find":
-			{
-				"height": 26.0
-			},
-			"input":
-			{
-				"height": 49.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					],
-					[
-						1,
-						0,
-						2,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					0.5,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,871,175,175,1370",
-			"project": "",
-			"replace":
-			{
-				"height": 48.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"selected_group": 1,
-			"settings":
-			{
-			},
-			"show_minimap": false,
-			"show_open_files": true,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 235.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			},
-			"window_id": 44,
+			"window_id": 46,
 			"workspace_name": ""
 		}
 	],
