@@ -16,7 +16,7 @@
 	"theme_scrollbar_rounded": true,
 	"theme_sidebar_folder_materialized": true,
 	"theme_sidebar_font_xl": true,
-	"theme_tab_font_lg": true,
+	"theme_tab_font_md": true,
 	"theme_tab_label_bold": true,
 	"theme_tab_line_size_lg": true,
 	"theme_tab_rounded": true,
