@@ -14,7 +14,11 @@
 		"DocBlockr",
 		"Emmet",
 		"FileHeader",
+		"Git",
+		"Git Config",
 		"GitGutter",
+		"Gitignore",
+		"Gitignored File Excluder",
 		"HTML-CSS-JS Prettify",
 		"JSHint",
 		"JSHint Gutter",
@@ -30,6 +34,7 @@
 		"Themr",
 		"TortoiseSVN",
 		"TrailingSpaces",
+		"TypeScript",
 		"Vue Syntax Highlight"
 	]
 }

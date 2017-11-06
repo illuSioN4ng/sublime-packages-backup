@@ -1,6 +1,36 @@
 {
 	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
-	"font_size": 15,
+	"extra_file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace"
+	],
+	"extra_folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS"
+	],
+	"font_size": 16,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
@@ -12,6 +42,7 @@
 	"material_theme_compact_panel": true,
 	"material_theme_compact_sidebar": true,
 	"material_theme_contrast_mode": true,
+	"tab_size": 2,
 	"theme": "Boxy Tomorrow.sublime-theme",
 	"theme_scrollbar_rounded": true,
 	"theme_sidebar_folder_materialized": true,
@@ -21,5 +52,6 @@
 	"theme_tab_line_size_lg": true,
 	"theme_tab_rounded": true,
 	"theme_tab_selected_underlined": true,
+	"translate_tabs_to_spaces": true,
 	"word_wrap": "true"
 }

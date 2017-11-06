@@ -1,6 +1,7 @@
 {
-	"js":
-		{
-			"space_after_anon_function": true,
-		}
+    "js":
+    {
+        "space_after_anon_function": true,
+        "indent_size": 2
+    }
 }

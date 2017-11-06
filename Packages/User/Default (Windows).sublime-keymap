@@ -2,4 +2,5 @@
 	{ "keys": ["ctrl+s"], "command": "save_all" },
 	{ "keys": ["alt+o"],    "command": "side_bar_reveal"},
 	{ "keys": ["ctrl+alt+x"], "command": "autoprefixer" },
+	{ "keys": ["ctrl+shift+o"], "command": "open_in_browser" }
 ]

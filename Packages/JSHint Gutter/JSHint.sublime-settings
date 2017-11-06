@@ -3,13 +3,13 @@
   // https://github.com/victorporof/Sublime-JSHint#oh-noez-command-not-found
   // http://nodejs.org/#download
   "node_path": {
-    "windows": "F:/nodejs/node.exe",
+    "windows": "D:/nodejs/node.exe",
     "linux": "/usr/bin/nodejs",
     "osx": "/usr/local/bin/node"
   },
 
   // Automatically lint on edit (Sublime Text 3 only).
-  "lint_on_edit": true,
+  "lint_on_edit": false,
 
   // Configurable duration before re-linting.
   "lint_on_edit_timeout": 1,

@@ -1,22 +1,65 @@
 {
 	"folder_history":
 	[
-		"/E/projects/基础教育资源公共平台重构/test",
+		"/E/projects/1017learning/SAN/test",
+		"/E/projects/0824畅言大数据",
+		"/E/projects/1017learning/flyjs学习/dropdowntree",
+		"/E/projects/1017learning/flyjs学习/test",
+		"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject",
+		"/C/Users/Administrator/Desktop/test",
+		"/E/projects/1017learning/flyjs学习/inputnumber",
+		"/E/projects/1017learning/angular-learning/my-first-app",
+		"/E/projects/1017learning/flyjs学习/flyjs-demo",
+		"/E/projects/1016JS-SDK/iat",
+		"/C/Users/Administrator/Desktop/mobile",
+		"/E/projects/0830校本资源库/jiaoben_ziyuan_manage20171010/jiaoben_ziyuan_manage",
+		"/E/projects/0830校本资源库/jiaoben_ziyuan_manage20171010",
+		"/E/projects/nw-learning",
+		"/E/projects/nw-learning/hello-world",
+		"/E/projects/0830校本资源库/xbzy/fe-xbzyk",
+		"/E/projects/0830校本资源库/xbzy/FEProject_xbzyk",
+		"/E/projects/0825人事考评/html",
+		"/C/Users/Administrator/Desktop/ztree",
+		"/C/Users/Administrator/Desktop/zTree_v3",
+		"/E/projects/0727基础教育资源公共平台重构/project",
+		"/E/projects/0727基础教育资源公共平台重构",
+		"/E/projects/0824畅言大数据/0914畅言大数据登录页/0914畅言大数据登录页",
+		"/E/projects/0824畅言大数据/数据应用中心登录页0828",
+		"/E/projects/0830校本资源库/xbzy",
+		"/E/projects/央教管/央馆-管理后台",
+		"/E/projects/0830校本资源库/xbzy/feproject",
+		"/E/projects/0830校本资源库/将军岭校本资源管理0904新",
+		"/E/projects/0830校本资源库/将军岭校本资源管理0904新/resource-management",
+		"/E/projects/0830校本资源库/FEProject_xbzyk",
+		"/E/projects/flyjs学习",
+		"/E/projects/0824畅言大数据/数算中心登录页mako0829",
+		"/E/projects/0824畅言大数据/数采中心登录页0828",
+		"/E/projects/0824畅言大数据/数算中心登录页0828",
+		"/E/projects/0824畅言大数据/数据资产中心登录页0828",
+		"/E/projects/0825人事考评/personnel-appraisal-system-anning",
+		"/E/projects/0824畅言大数据/登录页0828",
+		"/E/projects/0824鄂州/ezhou_project",
 		"/E/projects/基础教育资源公共平台重构/project",
+		"/E/projects/fly文档/vast-test",
+		"/E/projects/fly.js",
+		"/E/projects/test",
+		"/E/projects/flyjs-demo",
+		"/E/projects/登录页0824",
+		"/E/projects/ezhou_project",
+		"/E/projects/underscore/underscore",
+		"/C/Users/Administrator/AppData/Roaming/Sublime Text 3",
+		"/E/projects/基础教育资源公共平台重构/test",
 		"/C/Users/Administrator/Desktop/basic_edu",
 		"/E/projects/fly文档/亳州网办-演示",
 		"/E/projects/基础教育资源公共平台重构/basic_edu_project_rank",
 		"/E/projects/underscore",
 		"/E/projects/fly文档/vast-test/components/topic",
-		"/E/projects/fly文档/vast-test",
-		"/E/projects/test",
 		"/E/projects/basic_edu_project_index",
 		"/C/Users/Administrator/AppData/Roaming/npm/node_modules/fly",
-		"/E/projects/flyjs-demo/component_modules/flyui-alert/0.1.3",
-		"/E/projects/flyjs-demo"
+		"/E/projects/flyjs-demo/component_modules/flyui-alert/0.1.3"
 	],
-	"last_version": 3126,
-	"last_window_id": 45,
+	"last_version": 3143,
+	"last_window_id": 214,
 	"log_indexing": false,
 	"settings":
 	{
@@ -28,8 +71,360 @@
 				"selected_items":
 				[
 					[
+						"bgc",
+						"background-color"
+					],
+					[
+						"c",
+						"center"
+					],
+					[
+						"backgroun",
+						"background-repeat"
+					],
+					[
+						"back",
+						"background-position"
+					],
+					[
+						"margin-",
+						"margin-top"
+					],
+					[
+						"mrgin-",
+						"margin-top"
+					],
+					[
+						"query",
+						"queryParams"
+					],
+					[
+						"q",
+						"queryParams"
+					],
+					[
+						"margin",
+						"margin"
+					],
+					[
+						"b",
+						"bottom"
+					],
+					[
+						"background",
+						"background-position"
+					],
+					[
+						"s",
+						"share.css"
+					],
+					[
+						"up",
+						"updateType"
+					],
+					[
+						"sty",
+						"style=〔attribute〕"
+					],
+					[
+						"res",
+						"resourceStatistic.html"
+					],
+					[
+						"grade",
+						"gradeCdKwdw"
+					],
+					[
+						"know",
+						"knowledgeKwdw"
+					],
+					[
+						"resourceType",
+						"resourceTypeKwdw"
+					],
+					[
+						"marg",
+						"margin-right"
+					],
+					[
+						"r",
+						"right"
+					],
+					[
+						"API",
+						"API.requestURLs.updateAuthorize"
+					],
+					[
+						"disp",
+						"display"
+					],
+					[
+						"set",
+						"setHash"
+					],
+					[
+						"bac",
+						"background-image"
+					],
+					[
+						"border",
+						"border-radius"
+					],
+					[
+						"confirm",
+						"confirmTag〔variable〕"
+					],
+					[
+						"is",
+						"isEmpty"
+					],
+					[
+						"n",
+						"nowrap"
+					],
+					[
+						"word",
+						"word-wrap"
+					],
+					[
+						"for",
+						"for\tfor (…) {…}"
+					],
+					[
+						"re",
+						"reportInformation"
+					],
+					[
+						"ret",
+						"retVal〔variable〕"
+					],
+					[
+						"jspj",
+						"jspjScore〔variable〕"
+					],
+					[
+						"js",
+						"jshpWeight"
+					],
+					[
+						"to",
+						"toFixed"
+					],
+					[
+						"ldpj",
+						"ldpjFlag"
+					],
+					[
+						"sync",
+						"syncRes"
+					],
+					[
+						"pa",
+						"papersGrade"
+					],
+					[
+						"fil",
+						"filter〔variable〕"
+					],
+					[
+						"data",
+						"dataFilter〔function〕"
+					],
+					[
+						"school",
+						"schoolList"
+					],
+					[
+						"alert",
+						"alert('分数范围最高分必须高于最低分"
+					],
+					[
+						"te",
+						"teacDimDataItem"
+					],
+					[
+						"sch",
+						"schoolRatio"
+					],
+					[
+						"sc",
+						"schoolYearID"
+					],
+					[
+						"data-bind",
+						"data-bind=\"value"
+					],
+					[
+						"request",
+						"requestURLs"
+					],
+					[
+						"op",
+						"opacity"
+					],
+					[
+						"hash",
+						"hashObj〔variable〕"
+					],
+					[
+						"pageS",
+						"pageSource"
+					],
+					[
+						"file",
+						"fileExtType"
+					],
+					[
+						"book",
+						"bookInfo"
+					],
+					[
+						"req",
+						"requestURLs"
+					],
+					[
+						"page",
+						"pageSource"
+					],
+					[
+						"current",
+						"currentPageNo"
+					],
+					[
+						"html",
+						"htmlStr〔variable〕"
+					],
+					[
+						"_",
+						"_searchHandler"
+					],
+					[
+						"time",
+						"timeStamp〔variable〕"
+					],
+					[
+						"ti",
+						"timeStamp"
+					],
+					[
+						"sub",
+						"subjectStr"
+					],
+					[
+						"ex",
+						"extension"
+					],
+					[
+						"subj",
+						"subjectObj〔variable〕"
+					],
+					[
+						"cours",
+						"courseStr"
+					],
+					[
+						"ov",
+						"overflow"
+					],
+					[
+						"sour",
+						"source-management.js"
+					],
+					[
+						"display",
+						"display: 〔property〕"
+					],
+					[
+						"pop",
+						"pop-tips.html"
+					],
+					[
+						"remove",
+						"removeClass〔function〕"
+					],
+					[
+						"schoolYear",
+						"schoolYearSource"
+					],
+					[
+						"top",
+						"top-banner.html"
+					],
+					[
+						"hover",
+						"hoverEvent"
+					],
+					[
+						"padding",
+						"padding-top"
+					],
+					[
+						"text",
+						"text-ellipsis"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"w",
+						"word-logo.png\tw:31 h:32"
+					],
+					[
+						"z",
+						"z-index"
+					],
+					[
+						"l",
+						"left"
+					],
+					[
+						"ez",
+						"ez_index"
+					],
+					[
+						"font-",
+						"font-weight"
+					],
+					[
+						"box",
+						"box-sizing"
+					],
+					[
+						"cl",
+						"clearfix"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"d",
+						"not-allowed"
+					],
+					[
+						"cur",
+						"cursor"
+					],
+					[
+						"text-a",
+						"text-align"
+					],
+					[
 						"trans",
-						"translateX()"
+						"translate()"
+					],
+					[
+						"text-",
+						"text-overflow"
+					],
+					[
+						"no",
+						"nowrap"
+					],
+					[
+						"inline",
+						"inline-block"
 					],
 					[
 						"th",
@@ -42,10 +437,6 @@
 					[
 						"tableB",
 						"tableBodyTpl〔variable〕"
-					],
-					[
-						"pageS",
-						"pageSource〔variable〕"
 					],
 					[
 						"rank",
@@ -71,21 +462,29 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 210.0,
-				"last_filter": "remove",
+				"height": 357.0,
+				"last_filter": "rem",
 				"selected_items":
 				[
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
 					[
 						"remove",
 						"Package Control: Remove Package"
 					],
 					[
-						"packageR",
-						"PackageResourceViewer: Open Resource"
+						"insta",
+						"Package Control: Install Package"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
+						"packageR",
+						"PackageResourceViewer: Open Resource"
 					],
 					[
 						"ip",
@@ -120,7 +519,7 @@
 						"Set Syntax: Shell Script (Bash)"
 					]
 				],
-				"width": 510.0
+				"width": 558.0
 			},
 			"console":
 			{
@@ -145,72 +544,151 @@
 			},
 			"file_history":
 			[
-				"/E/projects/基础教育资源公共平台重构/project/components/boot/boot.css",
-				"/E/projects/基础教育资源公共平台重构/project/views/resource-rank.html",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Boxy Theme/Boxy Tomorrow.sublime-theme",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Color Scheme - Default/Monokai.tmTheme",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Themr/Default (Windows).sublime-keymap",
-				"/E/projects/基础教育资源公共平台重构/project/views/static/faculty/css/faculty.css",
-				"/E/projects/基础教育资源公共平台重构/project/views/app/index.js",
-				"/C/Users/Administrator/Desktop/首页接口文件",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Themr/ThemrFavorites.sublime-settings",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-list/show-list.js",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-list/show-list.html",
-				"/E/projects/基础教育资源公共平台重构/project/views/index.html",
-				"/D/pac.txt",
-				"/E/projects/基础教育资源公共平台重构/project/views/static/faculty/pagination.js",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/pagination/pagination.js",
-				"/E/projects/基础教育资源公共平台重构/project/component_modules/flyui-pager/0.1.3/pager.js",
-				"/E/projects/基础教育资源公共平台重构/project/views/static/faculty/css/table.css",
-				"/E/projects/基础教育资源公共平台重构/project/views/static/faculty/images/index_ic.png",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/show-table.js",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/show-table.html",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-body.html",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-head.html",
-				"/E/projects/基础教育资源公共平台重构/project/views/app/resource-rank.js",
-				"/E/projects/基础教育资源公共平台重构/basic_edu_project_rank/basic_edu_project/resource_rank.html",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-trs.html",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/show-table.css",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-box.html",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-title.html",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/pagination.html",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/rank-top/rank-top.html",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/rankNav/rankNav.html",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/rankNav/rankNav.js",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/rank-top/rank-top.js",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-list/show-list.css",
-				"/E/projects/基础教育资源公共平台重构/project/components/announcementList/announcementList.js",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
-				"/E/projects/基础教育资源公共平台重构/flyjs使用问题记录.txt",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
-				"/E/projects/basic_edu_project_index/static/index/js/jquery.index.js",
-				"/E/projects/basic_edu_project_index/index.html",
-				"/E/projects/basic_edu_project_index/static/index/css/index.css",
-				"/E/projects/carousel/carousel.js",
-				"/E/projects/carouse/carousel/carousel.js",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/TortoiseSVN/TortoiseSVN.sublime-settings",
-				"/C/Users/Administrator/AppData/Local/.fly-tmp/www/public/vast-test/0.0.1/index.html",
-				"/C/Users/Administrator/AppData/Local/.fly-tmp/www/public/flyjs-demo/1.0.0/lib/lib.js",
-				"/C/Users/Administrator/AppData/Local/.fly-tmp/www/public/flyjs-demo/1.0.0/lib/fly.require.js",
-				"/C/Users/Administrator/AppData/Local/.fly-tmp/www/public/flyjs-demo/1.0.0/app/index.js",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
-				"/C/Users/Administrator/AppData/Roaming/npm-cache/fly/0.3.2/package/package.json",
-				"/C/Users/Administrator/AppData/Roaming/npm/node_modules/fly/package.json",
-				"/C/Users/Administrator/AppData/Roaming/npm/node_modules/fly/bin/fly"
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/server/router.js",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/static/index/css/style.css",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/static/share/css/share.css",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/manage/toLessonDomainList.html",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/app/index.js",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/index.html",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/index-student.html",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/components/api-config/api-config.js",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/manage/toResourceList.html",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/manage/toRelationList.html",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/manage/toAuditOperatePage.html",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/manage/resourceStatistic.html",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/manage/authorizationList.html",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/manage/outSideReading.html",
+				"/C/Users/Administrator/Desktop/toResourceList.html",
+				"/C/Users/Administrator/Desktop/resourceStatistic.html",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/error/unauthorized.html",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/app/source-list.js",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/source-list.html",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/fis-conf.js",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/error/error.html",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/error/500.html",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/component_modules/lib-fly/1.2.5/fly.binder.js",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/app/manage/outSideReading.js",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/app/manage/toLessonDomainList.js",
+				"/C/Users/Administrator/Desktop/20171030flyjs/校本资源库去除role版本/lib-fly/1.2.5/fly.binder.js",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/app/manage/resourceStatistic.js",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/static/manage/css/manage.css",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/upload/toUploadAdd.html",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/app/upload/toUploadAdd.js",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/component_modules/lib-fly/1.2.5/fly.component.js",
+				"/C/Users/Administrator/Desktop/test/component.json",
+				"/C/Users/Administrator/Desktop/test/package.json",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/app/index-student.js",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/app/manage/toResourceList.js",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/app/source-detail.js",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/.jsbeautifyrc",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/app/manage/authorization.js",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/app/manage/myResourceList.js",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/app/manage/toAuditOperatePage.js",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/app/manage/toRelationList.js",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/source-detail.html",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/components/header/header.js",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/app/error/error.js",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/components/base-widget/base-widget.js",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/.jshintrc",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/static/jb_index/css/jb_index.css",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/component.json",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/manage/myResourceList.html",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/static/error/error.css",
+				"/E/projects/0830校本资源库/xbzy/release/public/fe-xbzyk/1.0.0/app/upload/toUploadAdd.js",
+				"/E/projects/0830校本资源库/xbzy/release/public/fe-xbzyk/1.0.0/index-student.html",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/components/header/header.html",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/static/common/css/common.css",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/components/student-header/student-header.js",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/components/student-header/student-header.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/fis-conf.js",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/districtManage/appraisalAdd.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/static/check_list/css/kp_list.css",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/app/area_manager/push-list.js",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/mock/DistrictAjaxAction_publishEval.json",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/components/api-config/api-config.js",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/app/area_manager/appraisal-add.js",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/app/index.js",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Project/05.Design/接口设计/人事考评接口文挡0905.txt",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/app/area_manager/appraisal-list.js",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/districtManage/appraisalList.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/districtManage/pushList.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/mock/teacherDimension.json",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/mock/leaderDimension.json",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/mock/reportMessage.json",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/app/area_manager/teacherevaluation-results.js",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/app/area_manager/leaderevaluation-results.js",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/mock/teacherYearEvalResul.json",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/mock/test.json",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/districtManage/teacherevaluationResults.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/districtManage/leaderevaluationResults.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/app/area_manager/leaderevaluation.js",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/index.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/districtManage/evalstandardList.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/districtManage/leaderevaluation.html",
+				"/C/Users/Administrator/AppData/Local/.fly-tmp/www/public/feproject/1.0.0/app/area_manager/leaderevaluation.js",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/app/area_manager/evalstandard-list.js",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/test/public/fe-xbzyk/1.0.0/app/source-list.js",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/area_manager/leaderevaluation.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/area_manager/appraisal-list.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/components/base-widget/base-widget.js",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/area_manager/appraisal-add.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/components/layout/top-banner/top-banner.js",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/area_manager/leaderevaluation-results.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/area_manager/appraisal-stats.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/components/layout/top-banner/top-bannar2.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/components/layout/top-banner/top-bannar3.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/components/layout/top-banner/top-banner.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/components/layout/top-banner/images/top-bannar3.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/area_manager/school-list.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/area_manager/report-list.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/area_manager/push-list.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/components/apprasisal-list/year-options/year-options.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/components/apprasisal-list/school-list/school-list.html",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/static/source/css/source.css",
+				"/C/Users/Administrator/Desktop/json.json",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/static/common/images/icon-file.png",
+				"/C/Users/Administrator/Desktop/doc;docx;rtf;txt;",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/component_modules/flyui-alert/0.1.4/component.json",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/package.json",
+				"/E/projects/0830校本资源库/xbzy/FEProject_xbzyk/views/static/common/images/logo.png",
+				"/E/projects/0830校本资源库/xbzy/FEProject_xbzyk/components/base-widget/base-widget.js",
+				"/E/projects/0830校本资源库/xbzy/FEProject_xbzyk/component_modules/flyui-alert/0.1.4/alert.tpl",
+				"/E/projects/0830校本资源库/xbzy/FEProject_xbzyk/component_modules/flyui-alert/0.1.4/alert.css",
+				"/E/projects/0830校本资源库/xbzy/FEProject_xbzyk/views/themes/default.css",
+				"/E/projects/0830校本资源库/xbzy/FEProject_xbzyk/component_modules/flyui-alert/0.1.4/alert.js",
+				"/E/projects/0830校本资源库/FEProject_xbzyk/source-management.html",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/JSHint Gutter/.jshintrc",
+				"/E/projects/0830校本资源库/FEProject_xbzyk/.jshintrc",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/app/area_manager/appraisal-stats.js",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/components/apprasisal-list/select/select.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/components/apprasisal-list/select/select.js",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/components/pop-tips/pop-tips.css",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/components/pop-tips/pop-tips.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/app/area_manager/report-list.js",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/app/area_manager/school-list.js",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Project/05.Design/接口设计/人事考评接口文挡0901_02.txt",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/components/apprasisal-list/teDev-rule-list/teDev-rule-list.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/components/apprasisal-list/teDev-rule-list/teDev-rule-list.js",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/components/pop-tips/pop-tips.js",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/components/apprasisal-list/questionnaire-select/questionnaire-select.js"
 			],
 			"find":
 			{
-				"height": 26.0
+				"height": 49.0
 			},
 			"find_in_files":
 			{
 				"height": 139.0,
 				"where_history":
 				[
+					"E:\\projects\\0830校本资源库\\xbzy\\fe-xbzyk\\views",
+					"E:\\projects\\0825人事考评\\EPD_rrt_anning\\Trunk\\Development\\FEproject\\component_modules\\lib-fly",
+					"E:\\projects\\0830校本资源库\\xbzy\\fe-xbzyk\\component_modules",
+					"E:\\projects\\0830校本资源库\\xbzy\\fe-xbzyk\\views,E:\\projects\\0830校本资源库\\xbzy\\fe-xbzyk\\component_modules\\lib-fly,E:\\projects\\0830校本资源库\\xbzy\\fe-xbzyk\\component_modules",
+					"E:\\projects\\0830校本资源库\\xbzy\\fe-xbzyk\\views,E:\\projects\\0830校本资源库\\xbzy\\fe-xbzyk\\component_modules\\lib-fly",
+					"E:\\projects\\0830校本资源库\\xbzy\\fe-xbzyk\\views",
+					"E:\\projects\\0830校本资源库\\xbzy\\fe-xbzyk\\views\\app"
 				]
 			},
 			"find_state":
@@ -218,49 +696,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"query",
+					"px",
+					"fl_s",
+					"support",
+					"arrayToTree",
+					"queryParams",
+					"uploadFilestr",
+					"saveResource",
+					"queryParams.fileProperty",
+					"getBookInfo",
+					"shareExtMore",
+					"mt15",
+					"isStudentVisible",
+					"getResourceTypeOfKwdw",
+					"changeSubjectsPaper",
+					"changeGradePaper",
+					"getBookInfo",
+					"changeGrade",
+					"changeSubjects",
+					"changeResColumnStep2",
+					"changeColumn",
+					"resColumn",
+					"changeResColumnStep2",
+					"changeColumn",
+					"selectBookIn",
+					"selectBookInfoStep2",
+					"changeBook",
+					"dataFilterBookInfo",
+					"bookList",
+					"form.",
+					"changeColumn",
+					"restype.",
+					"restype",
+					"resColumn",
+					"alert(",
+					"changeSubjects",
+					"clickTag ",
+					"课外读物",
+					"calender",
+					"visible: resListVisibleTag.eTextResTag",
+					"格式",
+					"text: resDesc",
+					"html",
+					"tab",
+					"set",
+					"settab",
+					"默认",
+					"async",
+					"500M",
+					"50",
+					"500",
+					"50",
+					"hashObj",
+					"data: hash",
+					"hashObj",
+					"gradeCdKwdw",
+					"gradeCd",
+					"can",
+					"role",
+					"render: ",
+					"render",
+					"refreshPageSource",
+					"updateType",
+					"canDelLesson",
+					"can",
+					"visible:",
+					"fnGetCurrentPageNoBook",
+					"fly",
+					"add",
+					"dropdown",
+					"data-cascade-from",
+					"dropdown",
+					"fly",
+					"dialog",
+					"title",
+					"pie-container",
+					"getResourceListOfKwdw",
+					"element.parentNode.insertBefore(newElement, element)",
+					"role",
+					"render:",
+					"tbody",
+					"gradeCdKwdw",
+					"适用范围：",
+					"resType",
+					"resFormat",
+					"parseCd",
+					"showStatisticInfoOfPie",
+					"showPie",
+					"getResourceTypeOfKwdu",
+					"filelistTmpl",
+					"getPhraseOfKwdw",
+					"),\n",
+					"上传资料",
+					"upload/toUploadAdd.do",
+					"text-over",
+					".text-over",
+					"getResourceListOfKwdw",
+					"papersResourceByType",
+					"sender",
+					"table-container",
+					"loadMuisc",
+					"invisible: defaultImgTag",
+					"dsResourceAuditOpinion = ",
+					"dsResourceAuditOpinion =",
+					"dsResourceAuditOpinion",
+					"audio:{",
+					"dsResourceAuditOpinion = ",
+					"dsResourceAuditOpinion",
+					"dsResourceAuditOpinion =",
+					"dsResourceAuditOpinion",
+					"\n\n",
+					"\n",
+					"\n\n",
+					"\n",
+					"a",
 					"console",
-					"conso",
-					"showListSource",
-					"sortMythod",
-					"$thSortBtns",
-					"sortInfo",
-					"_clickHandler",
-					"pager",
-					"dataSource",
-					"Source",
-					"_click",
-					"dataSource",
-					"_clickHandler",
-					"pager",
-					"current",
-					"_clickHandler",
-					"pageNumberView",
-					"class",
-					"current",
-					"_appendRange",
-					"_createLink",
-					"class",
-					"current",
-					"number",
-					".number",
-					"_clickHandler",
-					"number",
-					"data-sorting-mythod",
-					"sorting-method",
-					"table.dataTable",
-					"newsList",
-					".page a",
-					"page",
-					"show_table",
-					"=",
-					"                 \n",
-					"consult-edu-list",
-					"icon.gif",
-					"fix-header",
-					"login_banner_li",
-					"yx-rotation-focus",
-					"\t\t\t\t\n",
-					"yx-rotaion"
+					"topicName",
+					"fnBuildSearchArgsFilter",
+					"multiline",
+					"always",
+					"always-",
+					"always-multiline",
+					"for",
+					"in",
+					"comma",
+					"trail",
+					"element.nodeName.toLowerCase() === 'tbody'",
+					"element.nodeName.toLowerCase() === 'tbody' || (fly.support.browser.ie && fly.support.browser.ie <= 9"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -268,14 +831,20 @@
 				"regex": false,
 				"replace_history":
 				[
-					"pagination",
-					"table.table_box",
-					": .page div.number span",
-					": "
+					"mt10",
+					"",
+					"\n",
+					"html: resDesc\n",
+					"\n",
+					"",
+					"xbzy",
+					"Object.prototype.toString.apply(obj[i]) === '[object String]' ||\n                        Object.prototype.toString.apply(obj[i]) === '[object Boolean]' ||\n                        Object.prototype.toString.apply(obj[i]) === '[object Number]'",
+					"field",
+					""
 				],
 				"reverse": false,
 				"show_context": true,
-				"use_buffer2": true,
+				"use_buffer2": false,
 				"whole_word": false,
 				"wrap": true
 			},
@@ -289,6 +858,10 @@
 			},
 			"menu_visible": true,
 			"output.find_results":
+			{
+				"height": 154.0
+			},
+			"output.mdpopups":
 			{
 				"height": 0.0
 			},
@@ -329,13 +902,13 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 235.0,
+			"side_bar_width": 316.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 1179.0
+		"new_window_width": 1344.0
 	},
 	"windows":
 	[
@@ -345,8 +918,360 @@
 				"selected_items":
 				[
 					[
+						"bgc",
+						"background-color"
+					],
+					[
+						"c",
+						"center"
+					],
+					[
+						"backgroun",
+						"background-repeat"
+					],
+					[
+						"back",
+						"background-position"
+					],
+					[
+						"margin-",
+						"margin-top"
+					],
+					[
+						"mrgin-",
+						"margin-top"
+					],
+					[
+						"query",
+						"queryParams"
+					],
+					[
+						"q",
+						"queryParams"
+					],
+					[
+						"margin",
+						"margin"
+					],
+					[
+						"b",
+						"bottom"
+					],
+					[
+						"background",
+						"background-position"
+					],
+					[
+						"s",
+						"share.css"
+					],
+					[
+						"up",
+						"updateType"
+					],
+					[
+						"sty",
+						"style=〔attribute〕"
+					],
+					[
+						"res",
+						"resourceStatistic.html"
+					],
+					[
+						"grade",
+						"gradeCdKwdw"
+					],
+					[
+						"know",
+						"knowledgeKwdw"
+					],
+					[
+						"resourceType",
+						"resourceTypeKwdw"
+					],
+					[
+						"marg",
+						"margin-right"
+					],
+					[
+						"r",
+						"right"
+					],
+					[
+						"API",
+						"API.requestURLs.updateAuthorize"
+					],
+					[
+						"disp",
+						"display"
+					],
+					[
+						"set",
+						"setHash"
+					],
+					[
+						"bac",
+						"background-image"
+					],
+					[
+						"border",
+						"border-radius"
+					],
+					[
+						"confirm",
+						"confirmTag〔variable〕"
+					],
+					[
+						"is",
+						"isEmpty"
+					],
+					[
+						"n",
+						"nowrap"
+					],
+					[
+						"word",
+						"word-wrap"
+					],
+					[
+						"for",
+						"for\tfor (…) {…}"
+					],
+					[
+						"re",
+						"reportInformation"
+					],
+					[
+						"ret",
+						"retVal〔variable〕"
+					],
+					[
+						"jspj",
+						"jspjScore〔variable〕"
+					],
+					[
+						"js",
+						"jshpWeight"
+					],
+					[
+						"to",
+						"toFixed"
+					],
+					[
+						"ldpj",
+						"ldpjFlag"
+					],
+					[
+						"sync",
+						"syncRes"
+					],
+					[
+						"pa",
+						"papersGrade"
+					],
+					[
+						"fil",
+						"filter〔variable〕"
+					],
+					[
+						"data",
+						"dataFilter〔function〕"
+					],
+					[
+						"school",
+						"schoolList"
+					],
+					[
+						"alert",
+						"alert('分数范围最高分必须高于最低分"
+					],
+					[
+						"te",
+						"teacDimDataItem"
+					],
+					[
+						"sch",
+						"schoolRatio"
+					],
+					[
+						"sc",
+						"schoolYearID"
+					],
+					[
+						"data-bind",
+						"data-bind=\"value"
+					],
+					[
+						"request",
+						"requestURLs"
+					],
+					[
+						"op",
+						"opacity"
+					],
+					[
+						"hash",
+						"hashObj〔variable〕"
+					],
+					[
+						"pageS",
+						"pageSource"
+					],
+					[
+						"file",
+						"fileExtType"
+					],
+					[
+						"book",
+						"bookInfo"
+					],
+					[
+						"req",
+						"requestURLs"
+					],
+					[
+						"page",
+						"pageSource"
+					],
+					[
+						"current",
+						"currentPageNo"
+					],
+					[
+						"html",
+						"htmlStr〔variable〕"
+					],
+					[
+						"_",
+						"_searchHandler"
+					],
+					[
+						"time",
+						"timeStamp〔variable〕"
+					],
+					[
+						"ti",
+						"timeStamp"
+					],
+					[
+						"sub",
+						"subjectStr"
+					],
+					[
+						"ex",
+						"extension"
+					],
+					[
+						"subj",
+						"subjectObj〔variable〕"
+					],
+					[
+						"cours",
+						"courseStr"
+					],
+					[
+						"ov",
+						"overflow"
+					],
+					[
+						"sour",
+						"source-management.js"
+					],
+					[
+						"display",
+						"display: 〔property〕"
+					],
+					[
+						"pop",
+						"pop-tips.html"
+					],
+					[
+						"remove",
+						"removeClass〔function〕"
+					],
+					[
+						"schoolYear",
+						"schoolYearSource"
+					],
+					[
+						"top",
+						"top-banner.html"
+					],
+					[
+						"hover",
+						"hoverEvent"
+					],
+					[
+						"padding",
+						"padding-top"
+					],
+					[
+						"text",
+						"text-ellipsis"
+					],
+					[
+						"pad",
+						"padding"
+					],
+					[
+						"w",
+						"word-logo.png\tw:31 h:32"
+					],
+					[
+						"z",
+						"z-index"
+					],
+					[
+						"l",
+						"left"
+					],
+					[
+						"ez",
+						"ez_index"
+					],
+					[
+						"font-",
+						"font-weight"
+					],
+					[
+						"box",
+						"box-sizing"
+					],
+					[
+						"cl",
+						"clearfix"
+					],
+					[
+						"font-s",
+						"font-size"
+					],
+					[
+						"d",
+						"not-allowed"
+					],
+					[
+						"cur",
+						"cursor"
+					],
+					[
+						"text-a",
+						"text-align"
+					],
+					[
 						"trans",
-						"translateX()"
+						"translate()"
+					],
+					[
+						"text-",
+						"text-overflow"
+					],
+					[
+						"no",
+						"nowrap"
+					],
+					[
+						"inline",
+						"inline-block"
 					],
 					[
 						"th",
@@ -359,10 +1284,6 @@
 					[
 						"tableB",
 						"tableBodyTpl〔variable〕"
-					],
-					[
-						"pageS",
-						"pageSource〔variable〕"
 					],
 					[
 						"rank",
@@ -385,72 +1306,29 @@
 			"buffers":
 			[
 				{
-					"file": "/E/projects/基础教育资源公共平台重构/project/components/activity/activity.css",
+					"file": "/E/projects/1017learning/SAN/test/package.json",
 					"settings":
 					{
-						"buffer_size": 177,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/E/projects/基础教育资源公共平台重构/project/components/announcementList/announcementList.css",
-					"settings":
-					{
-						"buffer_size": 873,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/E/projects/基础教育资源公共平台重构/project/components/bottom/bottom.css",
-					"settings":
-					{
-						"buffer_size": 1321,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/E/projects/基础教育资源公共平台重构/project/components/boot/boot.css",
-					"settings":
-					{
-						"buffer_size": 128,
-						"encoding": "UTF-8",
+						"buffer_size": 295,
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/E/projects/基础教育资源公共平台重构/project/components/common-footer/common-footer.css",
+					"file": "/E/projects/1017learning/SAN/test/.gitignore",
 					"settings":
 					{
-						"buffer_size": 495,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/E/projects/基础教育资源公共平台重构/首页接口文件",
-					"settings":
-					{
-						"buffer_size": 38579,
+						"buffer_size": 13,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/E/projects/基础教育资源公共平台重构/project/views/app/resource-rank.js",
+					"file": "/E/projects/1017learning/SAN/test/index.js",
 					"settings":
 					{
-						"buffer_size": 6475,
+						"buffer_size": 158,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
-					"settings":
-					{
-						"buffer_size": 394,
-						"line_ending": "Unix"
 					}
 				}
 			],
@@ -461,21 +1339,33 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 210.0,
-				"last_filter": "remove",
+				"height": 357.0,
+				"last_filter": "ins",
 				"selected_items":
 				[
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
 					[
 						"remove",
 						"Package Control: Remove Package"
 					],
 					[
-						"packageR",
-						"PackageResourceViewer: Open Resource"
+						"insta",
+						"Package Control: Install Package"
 					],
 					[
-						"install",
-						"Package Control: Install Package"
+						"packageR",
+						"PackageResourceViewer: Open Resource"
 					],
 					[
 						"ip",
@@ -510,7 +1400,7 @@
 						"Set Syntax: Shell Script (Bash)"
 					]
 				],
-				"width": 510.0
+				"width": 558.0
 			},
 			"console":
 			{
@@ -535,85 +1425,143 @@
 			},
 			"expanded_folders":
 			[
-				"/E/projects/基础教育资源公共平台重构/project",
-				"/E/projects/基础教育资源公共平台重构/project/component_modules",
-				"/E/projects/基础教育资源公共平台重构/project/component_modules/lib-fly",
-				"/E/projects/基础教育资源公共平台重构/project/components",
-				"/E/projects/基础教育资源公共平台重构/project/components/activity",
-				"/E/projects/基础教育资源公共平台重构/project/components/announcementList",
-				"/E/projects/基础教育资源公共平台重构/project/components/boot",
-				"/E/projects/基础教育资源公共平台重构/project/components/bottom",
-				"/E/projects/基础教育资源公共平台重构/project/components/common-footer",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage",
-				"/E/projects/基础教育资源公共平台重构/project/views",
-				"/E/projects/基础教育资源公共平台重构/project/views/app",
-				"/E/projects/基础教育资源公共平台重构/project/views/static",
-				"/E/projects/基础教育资源公共平台重构/project/views/static/faculty",
-				"/E/projects/基础教育资源公共平台重构/project/views/static/faculty/css"
+				"/E/projects/1017learning/SAN/test",
+				"/E/projects/1017learning/SAN/test/node_modules"
 			],
 			"file_history":
 			[
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/JsFormat/Default (Windows).sublime-keymap",
-				"/E/projects/基础教育资源公共平台重构/project/components/boot/boot.css",
-				"/E/projects/基础教育资源公共平台重构/project/views/resource-rank.html",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Boxy Theme/Boxy Tomorrow.sublime-theme",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Color Scheme - Default/Monokai.tmTheme",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Themr/Default (Windows).sublime-keymap",
-				"/E/projects/基础教育资源公共平台重构/project/views/static/faculty/css/faculty.css",
-				"/E/projects/基础教育资源公共平台重构/project/views/app/index.js",
-				"/C/Users/Administrator/Desktop/首页接口文件",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Themr/ThemrFavorites.sublime-settings",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-list/show-list.js",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-list/show-list.html",
-				"/E/projects/基础教育资源公共平台重构/project/views/index.html",
-				"/D/pac.txt",
-				"/E/projects/基础教育资源公共平台重构/project/views/static/faculty/pagination.js",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/pagination/pagination.js",
-				"/E/projects/基础教育资源公共平台重构/project/component_modules/flyui-pager/0.1.3/pager.js",
-				"/E/projects/基础教育资源公共平台重构/project/views/static/faculty/css/table.css",
-				"/E/projects/基础教育资源公共平台重构/project/views/static/faculty/images/index_ic.png",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/show-table.js",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/show-table.html",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-body.html",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-head.html",
-				"/E/projects/基础教育资源公共平台重构/project/views/app/resource-rank.js",
-				"/E/projects/基础教育资源公共平台重构/basic_edu_project_rank/basic_edu_project/resource_rank.html",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-trs.html",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/show-table.css",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-box.html",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/table-title.html",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-table/pagination.html",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/rank-top/rank-top.html",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/rankNav/rankNav.html",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/rankNav/rankNav.js",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/rank-top/rank-top.js",
-				"/E/projects/基础教育资源公共平台重构/project/components/rankListPage/show-list/show-list.css",
-				"/E/projects/基础教育资源公共平台重构/project/components/announcementList/announcementList.js",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
-				"/E/projects/基础教育资源公共平台重构/flyjs使用问题记录.txt",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
-				"/E/projects/basic_edu_project_index/static/index/js/jquery.index.js",
-				"/E/projects/basic_edu_project_index/index.html",
-				"/E/projects/basic_edu_project_index/static/index/css/index.css",
-				"/E/projects/carousel/carousel.js",
-				"/E/projects/carouse/carousel/carousel.js",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/TortoiseSVN/TortoiseSVN.sublime-settings",
-				"/C/Users/Administrator/AppData/Local/.fly-tmp/www/public/vast-test/0.0.1/index.html",
-				"/C/Users/Administrator/AppData/Local/.fly-tmp/www/public/flyjs-demo/1.0.0/lib/lib.js",
-				"/C/Users/Administrator/AppData/Local/.fly-tmp/www/public/flyjs-demo/1.0.0/lib/fly.require.js",
-				"/C/Users/Administrator/AppData/Local/.fly-tmp/www/public/flyjs-demo/1.0.0/app/index.js",
-				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
-				"/C/Users/Administrator/AppData/Roaming/npm-cache/fly/0.3.2/package/package.json",
-				"/C/Users/Administrator/AppData/Roaming/npm/node_modules/fly/package.json",
-				"/C/Users/Administrator/AppData/Roaming/npm/node_modules/fly/bin/fly"
+				"/E/projects/1017learning/SAN/test/.gitignore",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/server/router.js",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/static/index/css/style.css",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/static/share/css/share.css",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/manage/toLessonDomainList.html",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/app/index.js",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/index.html",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/index-student.html",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/components/api-config/api-config.js",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/manage/toResourceList.html",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/manage/toRelationList.html",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/manage/toAuditOperatePage.html",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/manage/resourceStatistic.html",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/manage/authorizationList.html",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/manage/outSideReading.html",
+				"/C/Users/Administrator/Desktop/toResourceList.html",
+				"/C/Users/Administrator/Desktop/resourceStatistic.html",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/error/unauthorized.html",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/app/source-list.js",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/source-list.html",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/fis-conf.js",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/error/error.html",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/error/500.html",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/component_modules/lib-fly/1.2.5/fly.binder.js",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/app/manage/outSideReading.js",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/app/manage/toLessonDomainList.js",
+				"/C/Users/Administrator/Desktop/20171030flyjs/校本资源库去除role版本/lib-fly/1.2.5/fly.binder.js",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/app/manage/resourceStatistic.js",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/static/manage/css/manage.css",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/upload/toUploadAdd.html",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/app/upload/toUploadAdd.js",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/component_modules/lib-fly/1.2.5/fly.component.js",
+				"/C/Users/Administrator/Desktop/test/component.json",
+				"/C/Users/Administrator/Desktop/test/package.json",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/app/index-student.js",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/app/manage/toResourceList.js",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/app/source-detail.js",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/User/.jsbeautifyrc",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/app/manage/authorization.js",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/app/manage/myResourceList.js",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/app/manage/toAuditOperatePage.js",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/app/manage/toRelationList.js",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/source-detail.html",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/components/header/header.js",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/app/error/error.js",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/components/base-widget/base-widget.js",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/.jshintrc",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/static/jb_index/css/jb_index.css",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/component.json",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/manage/myResourceList.html",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/static/error/error.css",
+				"/E/projects/0830校本资源库/xbzy/release/public/fe-xbzyk/1.0.0/app/upload/toUploadAdd.js",
+				"/E/projects/0830校本资源库/xbzy/release/public/fe-xbzyk/1.0.0/index-student.html",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/components/header/header.html",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/static/common/css/common.css",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/components/student-header/student-header.js",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/components/student-header/student-header.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/fis-conf.js",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/districtManage/appraisalAdd.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/static/check_list/css/kp_list.css",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/app/area_manager/push-list.js",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/mock/DistrictAjaxAction_publishEval.json",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/components/api-config/api-config.js",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/app/area_manager/appraisal-add.js",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/app/index.js",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Project/05.Design/接口设计/人事考评接口文挡0905.txt",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/app/area_manager/appraisal-list.js",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/districtManage/appraisalList.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/districtManage/pushList.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/mock/teacherDimension.json",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/mock/leaderDimension.json",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/mock/reportMessage.json",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/app/area_manager/teacherevaluation-results.js",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/app/area_manager/leaderevaluation-results.js",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/mock/teacherYearEvalResul.json",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/mock/test.json",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/districtManage/teacherevaluationResults.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/districtManage/leaderevaluationResults.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/app/area_manager/leaderevaluation.js",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/index.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/districtManage/evalstandardList.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/districtManage/leaderevaluation.html",
+				"/C/Users/Administrator/AppData/Local/.fly-tmp/www/public/feproject/1.0.0/app/area_manager/leaderevaluation.js",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/app/area_manager/evalstandard-list.js",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/test/public/fe-xbzyk/1.0.0/app/source-list.js",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/area_manager/leaderevaluation.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/area_manager/appraisal-list.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/components/base-widget/base-widget.js",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/area_manager/appraisal-add.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/components/layout/top-banner/top-banner.js",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/area_manager/leaderevaluation-results.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/area_manager/appraisal-stats.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/components/layout/top-banner/top-bannar2.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/components/layout/top-banner/top-bannar3.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/components/layout/top-banner/top-banner.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/components/layout/top-banner/images/top-bannar3.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/area_manager/school-list.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/area_manager/report-list.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/area_manager/push-list.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/components/apprasisal-list/year-options/year-options.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/components/apprasisal-list/school-list/school-list.html",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/static/source/css/source.css",
+				"/C/Users/Administrator/Desktop/json.json",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/views/static/common/images/icon-file.png",
+				"/C/Users/Administrator/Desktop/doc;docx;rtf;txt;",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/component_modules/flyui-alert/0.1.4/component.json",
+				"/E/projects/0830校本资源库/xbzy/fe-xbzyk/package.json",
+				"/E/projects/0830校本资源库/xbzy/FEProject_xbzyk/views/static/common/images/logo.png",
+				"/E/projects/0830校本资源库/xbzy/FEProject_xbzyk/components/base-widget/base-widget.js",
+				"/E/projects/0830校本资源库/xbzy/FEProject_xbzyk/component_modules/flyui-alert/0.1.4/alert.tpl",
+				"/E/projects/0830校本资源库/xbzy/FEProject_xbzyk/component_modules/flyui-alert/0.1.4/alert.css",
+				"/E/projects/0830校本资源库/xbzy/FEProject_xbzyk/views/themes/default.css",
+				"/E/projects/0830校本资源库/xbzy/FEProject_xbzyk/component_modules/flyui-alert/0.1.4/alert.js",
+				"/E/projects/0830校本资源库/FEProject_xbzyk/source-management.html",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/JSHint Gutter/.jshintrc",
+				"/E/projects/0830校本资源库/FEProject_xbzyk/.jshintrc",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/app/area_manager/appraisal-stats.js",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/components/apprasisal-list/select/select.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/components/apprasisal-list/select/select.js",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/components/pop-tips/pop-tips.css",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/components/pop-tips/pop-tips.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/app/area_manager/report-list.js",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/views/app/area_manager/school-list.js",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Project/05.Design/接口设计/人事考评接口文挡0901_02.txt",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/components/apprasisal-list/teDev-rule-list/teDev-rule-list.html",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/components/apprasisal-list/teDev-rule-list/teDev-rule-list.js",
+				"/E/projects/0825人事考评/EPD_rrt_anning/Trunk/Development/FEproject/components/pop-tips/pop-tips.js"
 			],
 			"find":
 			{
-				"height": 48.0
+				"height": 49.0
 			},
 			"find_in_files":
 			{
@@ -627,49 +1575,6 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"console",
-					"conso",
-					"showListSource",
-					"sortMythod",
-					"$thSortBtns",
-					"sortInfo",
-					"_clickHandler",
-					"pager",
-					"dataSource",
-					"Source",
-					"_click",
-					"dataSource",
-					"_clickHandler",
-					"pager",
-					"current",
-					"_clickHandler",
-					"pageNumberView",
-					"class",
-					"current",
-					"_appendRange",
-					"_createLink",
-					"class",
-					"current",
-					"number",
-					".number",
-					"_clickHandler",
-					"number",
-					"data-sorting-mythod",
-					"sorting-method",
-					"table.dataTable",
-					"newsList",
-					".page a",
-					"page",
-					"show_table",
-					"=",
-					"                 \n",
-					"consult-edu-list",
-					"icon.gif",
-					"fix-header",
-					"login_banner_li",
-					"yx-rotation-focus",
-					"\t\t\t\t\n",
-					"yx-rotaion"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -677,350 +1582,45 @@
 				"regex": false,
 				"replace_history":
 				[
-					"pagination",
-					"table.table_box",
-					": .page div.number span",
-					": "
 				],
 				"reverse": false,
 				"show_context": true,
-				"use_buffer2": true,
+				"use_buffer2": false,
 				"whole_word": false,
 				"wrap": true
 			},
 			"folders":
 			[
 				{
-					"path": "E:\\projects\\基础教育资源公共平台重构\\project"
+					"path": "E:\\projects\\1017learning\\SAN\\test"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 3,
+					"selected": 1,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/E/projects/基础教育资源公共平台重构/project/components/activity/activity.css",
+							"file": "/E/projects/1017learning/SAN/test/package.json",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 177,
+								"buffer_size": 295,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										167,
-										167
+										250,
+										250
 									]
 								],
 								"settings":
 								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										225,
-										8,
-										10,
-										10,
-										9,
-										27,
-										3,
-										200,
-										192,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"git_gutter_is_enabled": true,
-									"syntax": "Packages/CSS/CSS.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/E/projects/基础教育资源公共平台重构/project/components/announcementList/announcementList.css",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 873,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										242,
-										242
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										225,
-										8,
-										10,
-										10,
-										9,
-										27,
-										3,
-										239,
-										208,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"git_gutter_is_enabled": true,
-									"syntax": "Packages/CSS/CSS.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 138.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/E/projects/基础教育资源公共平台重构/project/components/bottom/bottom.css",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1321,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										282,
-										282
-									]
-								],
-								"settings":
-								{
+									"auto_complete": true,
 									"bracket_highlighter.busy": false,
 									"bracket_highlighter.locations":
 									{
@@ -1028,8 +1628,8 @@
 										{
 											"1":
 											[
-												284,
-												285
+												293,
+												294
 											]
 										},
 										"icon":
@@ -1037,15 +1637,15 @@
 											"1":
 											[
 												"Packages/BracketHighlighter/icons/curly_bracket.png",
-												"brackethighlighter.default"
+												"region.purplish"
 											]
 										},
 										"open":
 										{
 											"1":
 											[
-												241,
-												242
+												0,
+												1
 											]
 										},
 										"unmatched":
@@ -1054,41 +1654,6 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
@@ -1099,173 +1664,41 @@
 										"bh_angle_open",
 										"bh_angle_close",
 										"bh_angle_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										225,
-										8,
-										10,
-										10,
-										9,
-										27,
-										4,
-										65,
-										216,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"git_gutter_is_enabled": true,
-									"syntax": "Packages/CSS/CSS.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/E/projects/基础教育资源公共平台重构/project/components/boot/boot.css",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 128,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										128,
-										128
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												127,
-												128
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/curly_bracket.png",
-												"brackethighlighter.default"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												3,
-												4
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
 										"bh_double_quote_close",
 										"bh_double_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
 										"bh_round_close",
 										"bh_round_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
@@ -1306,331 +1739,14 @@
 										10,
 										7,
 										225,
-										8,
+										11,
+										6,
+										11,
 										10,
-										10,
+										14,
 										9,
-										27,
-										4,
-										42,
-										104,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"git_gutter_is_enabled": true,
-									"syntax": "Packages/CSS/CSS.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/E/projects/基础教育资源公共平台重构/project/components/common-footer/common-footer.css",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 495,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										414,
-										414
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												413,
-												414
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/curly_bracket.png",
-												"brackethighlighter.default"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												153,
-												154
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										225,
-										8,
-										11,
-										10,
-										58,
-										34,
-										10,
-										199,
-										96,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"git_gutter_is_enabled": true,
-									"syntax": "Packages/CSS/CSS.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/E/projects/基础教育资源公共平台重构/首页接口文件",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 38579,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										31801,
-										31801
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										225,
-										8,
-										11,
-										11,
-										0,
-										57,
-										11,
-										41,
-										8,
+										110,
+										20,
 										113,
 										1,
 										133,
@@ -1642,38 +1758,181 @@
 										46
 									],
 									"git_gutter_is_enabled": false,
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (NPM).sublime-syntax"
 								},
 								"translation.x": 0.0,
-								"translation.y": 21871.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 7,
+							"stack_index": 1,
 							"type": "text"
-						}
-					]
-				},
-				{
-					"selected": 0,
-					"sheets":
-					[
+						},
 						{
-							"buffer": 6,
-							"file": "/E/projects/基础教育资源公共平台重构/project/views/app/resource-rank.js",
+							"buffer": 1,
+							"file": "/E/projects/1017learning/SAN/test/.gitignore",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 6475,
+								"buffer_size": 13,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										5164,
-										5164
+										13,
+										13
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										225,
+										11,
+										6,
+										11,
+										20,
+										0,
+										8,
+										178,
+										148,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"git_gutter_is_enabled": false,
+									"open_with_edit": true,
+									"syntax": "Packages/zzz A File Icon zzz/aliases/Shell Script (Git).sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/E/projects/1017learning/SAN/test/index.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 158,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										158,
+										158
 									]
 								],
 								"settings":
@@ -1693,50 +1952,10 @@
 										},
 										"unmatched":
 										{
-											"1":
-											[
-												6047,
-												6048
-											]
 										}
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
@@ -1747,16 +1966,51 @@
 										"bh_angle_open",
 										"bh_angle_close",
 										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content"
 									],
 									"c_time":
 									[
@@ -1787,14 +2041,14 @@
 										10,
 										7,
 										225,
-										8,
 										11,
-										9,
-										37,
-										4,
+										6,
+										11,
+										13,
+										11,
 										3,
-										116,
-										96,
+										40,
+										156,
 										113,
 										1,
 										133,
@@ -1805,183 +2059,15 @@
 										3,
 										46
 									],
-									"git_gutter_is_enabled": true,
-									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 2829.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 5,
-							"type": "text"
-						},
-						{
-							"buffer": 7,
-							"file": "/C/Users/Administrator/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/Default (Windows).sublime-keymap",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 394,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												392,
-												393
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/square_bracket.png",
-												"brackethighlighter.default"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												0,
-												1
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										225,
-										8,
-										11,
-										9,
-										56,
-										1,
-										0,
-										161,
-										184,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"git_gutter_is_enabled": true,
-									"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
+									"git_gutter_is_enabled": false,
+									"open_with_edit": true,
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 6,
+							"stack_index": 2,
 							"type": "text"
 						}
 					]
@@ -1989,7 +2075,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 33.0
+				"height": 26.0
 			},
 			"input":
 			{
@@ -2004,18 +2090,11 @@
 						0,
 						1,
 						1
-					],
-					[
-						1,
-						0,
-						2,
-						1
 					]
 				],
 				"cols":
 				[
 					0.0,
-					0.5,
 					1.0
 				],
 				"rows":
@@ -2027,14 +2106,18 @@
 			"menu_visible": true,
 			"output.find_results":
 			{
+				"height": 154.0
+			},
+			"output.mdpopups":
+			{
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,892,583,196,1778",
+			"position": "0,2,3,-1,-1,-1,-1,921,225,225,1585",
 			"project": "",
 			"replace":
 			{
-				"height": 94.0
+				"height": 48.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -2072,12 +2155,12 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 235.0,
+			"side_bar_width": 316.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 22,
+			"window_id": 214,
 			"workspace_name": ""
 		}
 	],
